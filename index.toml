@@ -4006,7 +4006,7 @@ hash = "70250c4fc5a8943a4441cfd22a73fd2bd4b2882a21ac2e8c4ad06ea95506a8c3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Relics and Artifacts.snbt"
-hash = "b79fcd7fcab301f06521c421dbc68c1110b36e7cbde286e1663235cbd2122599"
+hash = "ce3fbdbd9e7c0fa4ee07e50a532e042a5414692bbe56391f3cd1f5169c254118"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Theurgy.snbt"
@@ -18682,7 +18682,7 @@ hash = "5e0e12b0149f4af8ebf80c7f6c9e5df2cb3c04e954247b48c3a293857b973635"
 
 [[files]]
 file = "kubejs/data/trofers/trofers/trophies/relics.json"
-hash = "3ad5fd4d3fc0f7998b3d533bb426f8c1625e4699bb4231d986b0dae363805952"
+hash = "ea264cae35e156fcff8145d4009c9698ed7edf168bba2fbaca21621fa2247765"
 
 [[files]]
 file = "kubejs/data/trofers/trofers/trophies/remnant.json"
@@ -18814,7 +18814,7 @@ hash = "be0eaee625dda26870d9a59025035a44c69bcb61d502b06c1e1d6dbe55d4e790"
 
 [[files]]
 file = "kubejs/server_scripts/Mods/Craftoria/Curios.js"
-hash = "d3de9b7452d8abdb87043da61eb3646e09a1ad61a77f924f33d8daef47d3e814"
+hash = "fae23871594cdbc2bd4c5c3ac6a7f6a4302f6f23dfb9214fd104d4f5fecf07c6"
 
 [[files]]
 file = "kubejs/server_scripts/Mods/Craftoria/DecorStuffs.js"
@@ -19502,11 +19502,6 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
-metafile = true
-
-[[files]]
-file = "mods/byte.pw.toml"
-hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
 metafile = true
 
 [[files]]

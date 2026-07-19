@@ -97,7 +97,6 @@ ServerEvents.tags('item', e => {
     'artifacts:night_vision_goggles',
     'ars_technica:spy_monocle',
     'create:goggles',
-    'reliquified_twilight_forest:goblin_nose',
     'occultism:otherworld_goggles',
   ];
 
