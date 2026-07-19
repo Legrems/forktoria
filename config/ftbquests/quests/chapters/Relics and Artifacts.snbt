@@ -882,7 +882,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "015AB5CE32827AEF"
-				item: { components: { "relics:data": { abilities: { abilities: { explode: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { capacity: { initialValue: 56.08626d }, damage: { initialValue: 0.28451d }, stun: { initialValue: 0.09529d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:reflection_necklace" }
+				item: { count: 1, id: "relics:reflective_necklace" }
 				type: "item"
 			}]
 			x: 7.5d
@@ -945,7 +945,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "79BC78C1C134331B"
-				item: { components: { "relics:data": { abilities: { abilities: { backstab: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 1.26198d }, distance: { initialValue: 17.28166d } } }, vanish: { extender: { cooldown: 0, cooldownCap: 0, ticking: 1b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { light: { initialValue: 1.92871d }, speed: { initialValue: 0.31655d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:midnight_robe" }
+				item: { count: 1, id: "relics:midnight_mantle" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -1008,7 +1008,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "47FED010DD90362D"
-				item: { components: { "relics:data": { abilities: { abilities: { slots: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { charm: { initialValue: 1.39728d } } }, training: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { damage: { initialValue: 1.53433d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:hunter_belt" }
+				item: { count: 1, id: "relics:hunting_belt" }
 				type: "item"
 			}]
 			x: -4.5d
@@ -1302,7 +1302,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "7B7C2D4D792D8E32"
-				item: { components: { "relics:data": { abilities: { abilities: { skating: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 17.9784d }, speed: { initialValue: 0.00423d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:roller_skates" }
+				item: { count: 1, id: "relics:roller_skate" }
 				type: "item"
 			}]
 			x: 0.0d
