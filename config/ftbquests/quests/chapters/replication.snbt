@@ -342,5 +342,42 @@
 			x: 2.0d
 			y: 2.0d
 		}
+		{
+			dependencies: [
+				"6B5431B3A107C9D5"
+				"28EB489B44A05070"
+				"1CD404EA948FF868"
+				"6392FB264D1B2E52"
+				"47A87F0901355498"
+			]
+			icon: {
+				components: {
+					"trofers:trophy": "trofers:replication"
+				}
+				id: "trofers:medium_pillar"
+			}
+			icon_scale: 1.5d
+			hide_dependency_lines: true
+			id: "7A79DC2CE5CC9DEE"
+			rewards: [{
+				id: "1A05FE7F51F5C0E2"
+				item: {
+					components: {
+						"trofers:trophy": "trofers:replication"
+					}
+					count: 1
+					id: "trofers:medium_pillar"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 2.5d
+			tasks: [{
+				id: "6484D791025A2BF3"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
 	]
 }

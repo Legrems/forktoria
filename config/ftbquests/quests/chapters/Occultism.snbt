@@ -1500,5 +1500,76 @@
 			x: -2.6928571428571715d
 			y: 3.789285714285697d
 		}
+		{
+			dependencies: [
+				"4184B4182CFEF694"
+				"07D88A0ABF82A39A"
+				"7A7F75393420DB4C"
+				"5FB18A0E7827D203"
+				"72E69FF9753D3CEA"
+				"0145A878C472548C"
+				"7CB7BF24437115A4"
+				"4303A1A434C07540"
+				"687A9332533A26E8"
+				"69C0D033A9EE9EA7"
+				"5358F626FAFBEDD3"
+				"320F924B4D0D5EE6"
+				"53A66CA8EFE820D1"
+				"5BBB0BDD45F6FFC0"
+				"7FD2368444636E93"
+				"62B0913266F48F45"
+				"2D5A0399B7FFA5DB"
+				"64D625C86F3AB75C"
+				"209744C68891F1DA"
+				"219AFCECD9D006A2"
+				"7FBC6EFE948A0CD2"
+				"359A7C4C3C5E734F"
+				"32677D1F144A1184"
+				"67ACD099BDB606FA"
+				"134098BE2769F85A"
+				"38E1A4E0A032E377"
+				"58F3BCF5BFBCF371"
+				"01E8A006742F7A00"
+				"2A1319D8CFE3653B"
+				"656CBEFEE317E2E7"
+				"7A5466B9F5C79793"
+				"7790ABA120E4EBA9"
+				"76B2F5703A25D5CE"
+				"6EDBFB47B2F8E6BA"
+				"741485F43A560FF3"
+				"7FA5112E27A0D70C"
+				"1E6ADDD42C99274D"
+				"470BC1F9873D4852"
+				"4E026831A66E0A42"
+			]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"trofers:trophy": "trofers:occultism"
+				}
+				id: "trofers:medium_pillar"
+			}
+			icon_scale: 1.5d
+			id: "157239360F696AF7"
+			rewards: [{
+				id: "4F688028129F422D"
+				item: {
+					components: {
+						"trofers:trophy": "trofers:occultism"
+					}
+					count: 1
+					id: "trofers:medium_pillar"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 2.5d
+			tasks: [{
+				id: "559E1439EDFA2BA9"
+				type: "checkmark"
+			}]
+			x: -4.607d
+			y: 8.7d
+		}
 	]
 }

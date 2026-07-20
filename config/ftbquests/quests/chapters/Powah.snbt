@@ -1285,5 +1285,62 @@
 			x: -2.0d
 			y: -4.0d
 		}
+		{
+			dependencies: [
+				"0897CCAC72E82C5B"
+				"7C91F8323E43114F"
+				"1AB268C10CF67ED5"
+				"58EB5EFE7564D437"
+				"390323A83EB8009A"
+				"3311C5BAAAEA0823"
+				"6E28C25469FF7738"
+				"61B3A9FD3F8320FA"
+				"1F1E00F732B4B264"
+				"38475CAFABD0E7E1"
+				"17F4360605757447"
+				"2BDA2C9E39C88298"
+				"355C2855E8E944EC"
+				"38EA233A115C2B29"
+				"69C1F18028D47382"
+				"44B163AC1CAC61B8"
+				"7868FC7BFD261974"
+				"220D0BE2CF327C3C"
+				"647E32D9D5B95292"
+				"3AEBDC9AD5B5FAF3"
+				"52665327B337C371"
+				"2476BE69FBC0681D"
+				"11A5F55658CB442A"
+				"11FC8E533E897B8F"
+				"098C3858B4FFCE78"
+			]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"trofers:trophy": "trofers:powah"
+				}
+				id: "trofers:medium_pillar"
+			}
+			icon_scale: 1.5d
+			id: "6F07EDE7A819467B"
+			rewards: [{
+				id: "4B69889CFED20FC5"
+				item: {
+					components: {
+						"trofers:trophy": "trofers:powah"
+					}
+					count: 1
+					id: "trofers:medium_pillar"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 2.5d
+			tasks: [{
+				id: "79794A87CBA37582"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
 	]
 }

@@ -1772,5 +1772,67 @@
 			x: 6.8125d
 			y: 5.3125d
 		}
+		{
+			dependencies: [
+				"22ADCF0396B37BDC"
+				"38D846A79BC43920"
+				"1EC75DB7FA07D06B"
+				"1D249BAAD819E83F"
+				"1A368E5AD57C10E1"
+				"01C94AD31BA1079F"
+				"6762C357EEDE8D10"
+				"7D155344A5A6CEF7"
+				"1794E588334CB478"
+				"04E6DF90BA2FCACB"
+				"6FC67A24AACDC2AD"
+				"480866B51061F78E"
+				"29AC06B27D6A53C5"
+				"5EEF6110DDBEB146"
+				"79C075FFF796FE16"
+				"29B59876D04A3772"
+				"15B6718AFA5E6959"
+				"3696D20B77DF1B24"
+				"3618C8F2EE6E308F"
+				"33CEED6232901CE5"
+				"67B17617F57B247F"
+				"17FCD3ECDC775E69"
+				"7C31082BB88384BF"
+				"77897C0A26941E97"
+				"18E944F145FEBB8C"
+				"166CEF9F03DA14F6"
+				"378A3A640EF06FE5"
+				"023A420F24C515EB"
+				"7342ABDAD6467123"
+				"7C895CB7DD5FEA8B"
+			]
+			icon: {
+				components: {
+					"trofers:trophy": "trofers:pnc"
+				}
+				id: "trofers:medium_pillar"
+			}
+			icon_scale: 1.5d
+			hide_dependency_lines: true
+			id: "375B2C2D89889153"
+			rewards: [{
+				id: "6584F562A9953442"
+				item: {
+					components: {
+						"trofers:trophy": "trofers:pnc"
+					}
+					count: 1
+					id: "trofers:medium_pillar"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 2.5d
+			tasks: [{
+				id: "00CA3CB10A03DF62"
+				type: "checkmark"
+			}]
+			x: -0.25d
+			y: 10.625d
+		}
 	]
 }

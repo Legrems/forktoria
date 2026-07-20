@@ -1595,5 +1595,87 @@
 			x: 1.0d
 			y: -5.4d
 		}
+		{
+			dependencies: [
+				"32D2620EE28E38C2"
+				"060A481F0ADF8967"
+				"1AFE5ED9C0F1EA03"
+				"6AAFC03D6076BB95"
+				"004CEA979BC74728"
+				"6CFE4C749B2431AA"
+				"4644B4DF2127D25A"
+				"1D5B3A979F30436C"
+				"76B3EC485BAA4CFD"
+				"3DE5B977CC287E07"
+				"2E048A4EC3644EB0"
+				"382A9CC6F9B5740F"
+				"1993478A82341354"
+				"4E7439769A073494"
+				"2ACF8F5EFD3C4AF7"
+				"7422BD3C0F060AC5"
+				"71229397B2C60BEF"
+				"6CFD2F0F9F95A47F"
+				"773A620E68E2FEB8"
+				"5B1324D88B09C454"
+				"66CB98B3A3A6BD9C"
+				"6CE6534C96BBC829"
+				"0C37E9D8A7823264"
+				"7CF09238E123231F"
+				"0696635896D223CA"
+				"614BF4C59DC94185"
+				"29DE88844D54B5B4"
+				"1057296CFE232202"
+				"613CFAA2D606D6A0"
+				"79AF7B7BF7366574"
+				"6D91A0086229DCED"
+				"029FFA3DD0A16401"
+				"7AF60A1ECF98B184"
+				"02D5EC1A602A24BD"
+				"3F4EB05CA73E1FD2"
+				"26B44D509DA550DB"
+				"773B8847F5003301"
+				"0508E356C43D68B6"
+				"27367342EDF87DEB"
+				"28724CA9F837F710"
+				"480F170F7028C337"
+				"42AC14C7D41F0CAB"
+				"71A219DF9715D153"
+				"43ACFDB5CD949C74"
+				"69400E62D67A21FC"
+				"33EEBDD0730C020E"
+				"3AAE23B6BE07E5DC"
+				"0BDF41399223A10A"
+				"5221657F939FE63B"
+				"3D78308A34152AB4"
+			]
+			icon: {
+				components: {
+					"trofers:trophy": "trofers:irons"
+				}
+				id: "trofers:medium_pillar"
+			}
+			icon_scale: 1.5d
+			hide_dependency_lines: true
+			id: "1F0B8A0EBCBA4399"
+			rewards: [{
+				id: "4C5CE82570A1C804"
+				item: {
+					components: {
+						"trofers:trophy": "trofers:irons"
+					}
+					count: 1
+					id: "trofers:medium_pillar"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 2.5d
+			tasks: [{
+				id: "256831387C82AA19"
+				type: "checkmark"
+			}]
+			x: 1.05d
+			y: 13.6d
+		}
 	]
 }

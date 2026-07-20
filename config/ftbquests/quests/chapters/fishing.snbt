@@ -385,5 +385,41 @@
 			x: -4.4875d
 			y: 3.2625d
 		}
+		{
+			dependencies: [
+				"0ABC6D5601DCD95F"
+				"2C42A6E79A5242F0"
+				"5D0F6404B76F480E"
+				"7283C1B759AF0F5F"
+			]
+			icon: {
+				components: {
+					"trofers:trophy": "trofers:fishing"
+				}
+				id: "trofers:medium_pillar"
+			}
+			icon_scale: 1.5d
+			hide_dependency_lines: true
+			id: "678A65A6A3461CFC"
+			rewards: [{
+				id: "0D1E284357B48C6D"
+				item: {
+					components: {
+						"trofers:trophy": "trofers:fishing"
+					}
+					count: 1
+					id: "trofers:medium_pillar"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 2.5d
+			tasks: [{
+				id: "0252085507ED5488"
+				type: "checkmark"
+			}]
+			x: 1.353d
+			y: 7.3d
+		}
 	]
 }

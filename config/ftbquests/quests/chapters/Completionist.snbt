@@ -70,7 +70,106 @@
 		}
 	]
 	order_index: 1
-	quest_links: [ ]
+	quest_links: [
+		{
+			id: "4ED59433AD9C1E55"
+			linked_quest: "02AE5771A57BC6BE"
+			shape: "circle"
+			x: -15.5d
+			y: 4.625d
+		}
+		{
+			id: "D0DE969497427E2A"
+			linked_quest: "5FCE0573AA70913A"
+			shape: "circle"
+			x: -12.9d
+			y: 4.625d
+		}
+		{
+			id: "AE7D087DF6C01D92"
+			linked_quest: "15D18F5637F6382E"
+			shape: "circle"
+			x: -10.3d
+			y: 4.625d
+		}
+		{
+			id: "BF6DD25D2A85302D"
+			linked_quest: "3288EB24E412AF9A"
+			shape: "circle"
+			x: -11.6d
+			y: 4.625d
+		}
+		{
+			id: "958D810AA9D1ABB9"
+			linked_quest: "6F07EDE7A819467B"
+			shape: "circle"
+			x: -9.0d
+			y: 4.625d
+		}
+		{
+			id: "93ACA8359A026D9B"
+			linked_quest: "7ED9955750255A69"
+			shape: "circle"
+			x: -14.875d
+			y: 6.375d
+		}
+		{
+			id: "A24B4D0B56014EB6"
+			linked_quest: "157239360F696AF7"
+			shape: "circle"
+			x: -8.375d
+			y: 6.375d
+		}
+		{
+			id: "55817AEC8E7A656C"
+			linked_quest: "3E9D2DA07E8617EA"
+			shape: "circle"
+			x: -10.5d
+			y: 6.375d
+		}
+		{
+			id: "05802B50C50B6A41"
+			linked_quest: "375B2C2D89889153"
+			shape: "circle"
+			x: -7.7d
+			y: 4.625d
+		}
+		{
+			id: "31257FCE0195A754"
+			linked_quest: "739D2E03341174B1"
+			shape: "circle"
+			x: -13.75d
+			y: 8.125d
+		}
+		{
+			id: "0525FACEEF88972A"
+			linked_quest: "1F0B8A0EBCBA4399"
+			shape: "circle"
+			x: -12.75d
+			y: 6.375d
+		}
+		{
+			id: "1C5D55FE24B77C45"
+			linked_quest: "7A79DC2CE5CC9DEE"
+			shape: "circle"
+			x: -14.2d
+			y: 4.625d
+		}
+		{
+			id: "09DAB3859D53D8E8"
+			linked_quest: "65AA8B8D22954941"
+			shape: "circle"
+			x: -11.5d
+			y: 8.125d
+		}
+		{
+			id: "F0B5D817D6BA0E04"
+			linked_quest: "678A65A6A3461CFC"
+			shape: "circle"
+			x: -9.25d
+			y: 8.125d
+		}
+	]
 	quests: [
 		{
 			dependencies: [
@@ -144,439 +243,6 @@
 			}]
 			x: -3.25d
 			y: 7.875d
-		}
-		{
-			dependencies: ["70FFEE37C7ABD690"]
-			hide_dependency_lines: true
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:applied_energistics"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "02AE5771A57BC6BE"
-			rewards: [{
-				id: "738F1F1938CE61E9"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:applied_energistics"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "752A63BD14A38E85"
-				type: "checkmark"
-			}]
-			x: -15.5d
-			y: 4.625d
-		}
-		{
-			dependencies: ["37D7FA3DAE36E099"]
-			hide_dependency_lines: true
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:justdirethings"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "5FCE0573AA70913A"
-			rewards: [{
-				id: "3A04A8C27F71F441"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:justdirethings"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "472C8EE4AE6F4ED2"
-				type: "checkmark"
-			}]
-			x: -12.9d
-			y: 4.625d
-		}
-		{
-			dependencies: ["40CEA39FE5F5225D"]
-			hide_dependency_lines: true
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:mekanism"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "15D18F5637F6382E"
-			rewards: [{
-				id: "7AB1AB2F3B5BC649"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:mekanism"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "44CE789BDE1EFCB1"
-				type: "checkmark"
-			}]
-			x: -10.3d
-			y: 4.625d
-		}
-		{
-			dependencies: [
-				"2D12E0E71DEC99E9"
-				"53A9F74C4BFE02D2"
-				"587D73D979FA9D28"
-			]
-			hide_dependency_lines: true
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:modern_industrialization"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "3288EB24E412AF9A"
-			rewards: [{
-				id: "537D3901C2CBE862"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:modern_industrialization"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "6C0BB72F6382FE4F"
-				type: "checkmark"
-			}]
-			x: -11.6d
-			y: 4.625d
-		}
-		{
-			dependencies: ["01B56BD678E7745B"]
-			hide_dependency_lines: true
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:powah"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "6F07EDE7A819467B"
-			rewards: [{
-				id: "4B69889CFED20FC5"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:powah"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "79794A87CBA37582"
-				type: "checkmark"
-			}]
-			x: -9.0d
-			y: 4.625d
-		}
-		{
-			dependencies: ["0597AF3E8B286CFA"]
-			hide_dependency_lines: true
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:ars_nouveau"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "7ED9955750255A69"
-			rewards: [{
-				id: "6EE2C227098FC38D"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:ars_nouveau"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "15ED212071C6CAF0"
-				type: "checkmark"
-			}]
-			x: -14.875d
-			y: 6.375d
-		}
-		{
-			dependencies: ["7269FD2B5B0F0424"]
-			hide_dependency_lines: true
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:occultism"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "157239360F696AF7"
-			rewards: [{
-				id: "4F688028129F422D"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:occultism"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "559E1439EDFA2BA9"
-				type: "checkmark"
-			}]
-			x: -8.375d
-			y: 6.375d
-		}
-		{
-			dependencies: ["5A3894BACC5E8994"]
-			hide_dependency_lines: true
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:theurgy"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "3E9D2DA07E8617EA"
-			rewards: [{
-				id: "73875F361A2CD4FA"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:theurgy"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "6B6E82D0312A8705"
-				type: "checkmark"
-			}]
-			x: -10.5d
-			y: 6.375d
-		}
-		{
-			dependencies: ["04AD21E8ACC60AFD"]
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:pnc"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "375B2C2D89889153"
-			rewards: [{
-				id: "6584F562A9953442"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:pnc"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "00CA3CB10A03DF62"
-				type: "checkmark"
-			}]
-			x: -7.7d
-			y: 4.625d
-		}
-		{
-			dependencies: ["2A4C06811555B5D0"]
-			hide_dependency_lines: true
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:relics"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "739D2E03341174B1"
-			rewards: [{
-				id: "31BD7016C6462908"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:relics"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "6BD239D70099FED0"
-				type: "checkmark"
-			}]
-			x: -13.75d
-			y: 8.125d
-		}
-		{
-			dependencies: ["3B4FADE31FB88E9F"]
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:irons"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "1F0B8A0EBCBA4399"
-			rewards: [{
-				id: "4C5CE82570A1C804"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:irons"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "256831387C82AA19"
-				type: "checkmark"
-			}]
-			x: -12.75d
-			y: 6.375d
-		}
-		{
-			dependencies: ["679ED31B5B1D91DA"]
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:replication"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "7A79DC2CE5CC9DEE"
-			rewards: [{
-				id: "1A05FE7F51F5C0E2"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:replication"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "6484D791025A2BF3"
-				type: "checkmark"
-			}]
-			x: -14.2d
-			y: 4.625d
-		}
-		{
-			dependencies: ["216D532684E20496"]
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:bosses"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "65AA8B8D22954941"
-			rewards: [{
-				id: "5358434D18BCB827"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:bosses"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "0D84F32752A47951"
-				type: "checkmark"
-			}]
-			x: -11.5d
-			y: 8.125d
-		}
-		{
-			dependencies: ["1910D05CD66EC477"]
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:fishing"
-				}
-				id: "trofers:medium_pillar"
-			}
-			icon_scale: 1.5d
-			id: "678A65A6A3461CFC"
-			rewards: [{
-				id: "0D1E284357B48C6D"
-				item: {
-					components: {
-						"trofers:trophy": "trofers:fishing"
-					}
-					count: 1
-					id: "trofers:medium_pillar"
-				}
-				type: "item"
-			}]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "0252085507ED5488"
-				type: "checkmark"
-			}]
-			x: -9.25d
-			y: 8.125d
 		}
 	]
 }

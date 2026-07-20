@@ -2626,5 +2626,86 @@
 			x: 7.0d
 			y: 1.5d
 		}
+		{
+			dependencies: [
+				"7C201074DDBAE831"
+				"6716C1CE7B7FFA94"
+				"63B54338B8D5823B"
+				"24E5FA9129987168"
+				"263FE6D3550CD41C"
+				"746C3046F10DDD71"
+				"5619683321410B74"
+				"72DD0017AC3B1326"
+				"3D9DED933A80CAFA"
+				"4047F3E2AD081915"
+				"59128813386BFDB1"
+				"6F7A998802C99AD4"
+				"3B82F8F19AF630D5"
+				"75FE996305813D68"
+				"54BCC1A0203B2351"
+				"7FEBDFAE021B3C56"
+				"150D032A0BE1BB76"
+				"2AB5183A0BD8D387"
+				"002410CF49E1E14E"
+				"1704E827B6D3E46A"
+				"2BB266022C8BFC8C"
+				"05E7C7E41BA79426"
+				"0B98E8AC5CFB0FC2"
+				"237468FAB20906A8"
+				"1523A200F5E4361B"
+				"70EA0BAAB50E32BF"
+				"18D6860E893D80D2"
+				"511E7475AD64A32D"
+				"35134F538FC7F562"
+				"35CA9D458FD5D791"
+				"7290F8670BBBF12E"
+				"1B1ED97DF0FE2E3C"
+				"6BE08185BB44CEF8"
+				"54D178C57E788506"
+				"2C92B957A5E8646F"
+				"6307E15FAAF30712"
+				"6750F4584257BA75"
+				"19A2B9A9862C59F2"
+				"29CFD0E01542A93D"
+				"35A5048875097D66"
+				"3E41681892FA2E44"
+				"3480351307F0DD04"
+				"15008EFBA92CC3DC"
+				"123F10122DCC72F9"
+				"4E33ED9C42F906F6"
+				"7C8EF2A739AAC1D7"
+				"6618D7F353A6FFAD"
+				"4670BD132DF4A70E"
+				"05B2AA73EAEDCCF4"
+			]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"trofers:trophy": "trofers:applied_energistics"
+				}
+				id: "trofers:medium_pillar"
+			}
+			icon_scale: 1.5d
+			id: "02AE5771A57BC6BE"
+			rewards: [{
+				id: "738F1F1938CE61E9"
+				item: {
+					components: {
+						"trofers:trophy": "trofers:applied_energistics"
+					}
+					count: 1
+					id: "trofers:medium_pillar"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 2.5d
+			tasks: [{
+				id: "752A63BD14A38E85"
+				type: "checkmark"
+			}]
+			x: 0.25d
+			y: 10.0d
+		}
 	]
 }

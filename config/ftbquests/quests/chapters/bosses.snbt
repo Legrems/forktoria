@@ -653,5 +653,58 @@
 			x: -3.7500000000000004d
 			y: -4.65d
 		}
+		{
+			dependencies: [
+				"63EC4C04DD5C0CA6"
+				"56723AEFD93C17F1"
+				"0012F8780D9172DE"
+				"5DBFD3F917C4E49C"
+				"4CA99DC1D953E1FB"
+				"72FF205D1C9A9178"
+				"4A559B47D164D1BB"
+				"67785FD77E880DDB"
+				"19B550F54950E253"
+				"413557ECF489FD2C"
+				"4C357D8CF72B8F25"
+				"7DA49A7F33A82D1C"
+				"63F26CC561D0B80D"
+				"6531DF5573672E9E"
+				"1D2EF18DBF02F6EB"
+				"5570CFF754032FDB"
+				"7DB4E20D476B5786"
+				"692049F6F50CC017"
+				"2209DC294580BF3D"
+				"320C2F44DD138054"
+				"630EF1A8715E2D90"
+			]
+			icon: {
+				components: {
+					"trofers:trophy": "trofers:bosses"
+				}
+				id: "trofers:medium_pillar"
+			}
+			icon_scale: 1.5d
+			hide_dependency_lines: true
+			id: "65AA8B8D22954941"
+			rewards: [{
+				id: "5358434D18BCB827"
+				item: {
+					components: {
+						"trofers:trophy": "trofers:bosses"
+					}
+					count: 1
+					id: "trofers:medium_pillar"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 2.5d
+			tasks: [{
+				id: "0D84F32752A47951"
+				type: "checkmark"
+			}]
+			x: -6.812d
+			y: 14.4d
+		}
 	]
 }
