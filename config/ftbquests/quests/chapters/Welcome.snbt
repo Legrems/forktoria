@@ -105,44 +105,7 @@
 		{
 			dependencies: ["21E1E62AA4761EE2"]
 			icon: {
-				components: {
-					"relics:data": {
-						abilities: {
-							abilities: {
-								teleport: {
-									extender: {
-										cooldown: 0
-										cooldownCap: 0
-										ticking: 0b
-									}
-									lock: {
-										breaks: 5
-									}
-									points: 0
-									research: {
-										links: { }
-										researched: 0b
-									}
-									stats: {
-										cooldown: {
-											initialValue: 76.74979d
-										}
-										distance: {
-											initialValue: 640.83509d
-										}
-									}
-								}
-							}
-						}
-						leveling: {
-							experience: 0
-							level: 0
-							luck: 0
-							points: 0
-						}
-					}
-				}
-				id: "relics:magic_mirror"
+				id: "minecraft:compass"
 			}
 			id: "2E7A46639993CCDE"
 			tasks: [{

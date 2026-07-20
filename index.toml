@@ -4006,7 +4006,7 @@ hash = "70250c4fc5a8943a4441cfd22a73fd2bd4b2882a21ac2e8c4ad06ea95506a8c3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Relics and Artifacts.snbt"
-hash = "ce3fbdbd9e7c0fa4ee07e50a532e042a5414692bbe56391f3cd1f5169c254118"
+hash = "0d7743ec7091f71551b1813d522feb83fe3242fd6313c44bc5fd582c14ba5798"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Theurgy.snbt"
@@ -4014,7 +4014,7 @@ hash = "b3fac5cff9c580f7efb9ee8c950f9402863222bdaf1233d9d4b4ec54aeb35567"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Welcome.snbt"
-hash = "640ed6b5a2c71356f0bb18b47b257027223bc8fdf0e165791a019f52765c6485"
+hash = "60bf36705fb3405a7d36356b01672ea597a733818bbb086fd22974dd52c9ab15"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/bosses.snbt"
@@ -4063,6 +4063,14 @@ hash = "6689792dff8a047a250a5a0679b586b93e3208c7060ec9fa04a0a096fe4f543c"
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "d222e0ed25c67eef79675536a83da0fccb240023f6a447901c64c6b52c451b4e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapter.snbt"
+hash = "f38be0c30f7fbdf020273e26eb8164fd76fe58aec57629e231e6eb005072e1a8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapter_group.snbt"
+hash = "3fbdd2a8040149eb087ae6a86aec772d7413d817bef0e8e8c1eec1ca991bb682"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Applied Energistics.snbt"
@@ -4161,6 +4169,14 @@ file = "config/ftbquests/quests/lang/en_us/reward_table.snbt"
 hash = "effb530b660e56e64ba846042757f3bd1ad950966a7be4b47f9786092aa20aad"
 
 [[files]]
+file = "config/ftbquests/quests/lang/es_es/chapter.snbt"
+hash = "2622cbe5f13b94c360568bab490c488a446b5a567fbcf498e021615366bbe837"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapter_group.snbt"
+hash = "35df666da7ab6f2aee59bd8d09e9b30fe7be0f807392c0509ac6c5eaec66b6fd"
+
+[[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/Applied Energistics.snbt"
 hash = "057bdbad97e6bb30fdbbcfa2524beab99cbc1146dc6cd4816af6065136ae0d71"
 
@@ -4243,6 +4259,10 @@ hash = "32706693e2e80e231588ff36d8d63ae99bfbe9a23a70477e5b0136d1fe4de407"
 [[files]]
 file = "config/ftbquests/quests/lang/es_es/reward_table.snbt"
 hash = "8a36ff9a950edef5a23eece0934469e79b4209f685a0badce22d7f95b5f9164d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapter_group.snbt"
+hash = "73faa37a7d47d254c642db503af00de45deedaa8896a2cebcda5bc60df8d1c44"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br/file.snbt"
