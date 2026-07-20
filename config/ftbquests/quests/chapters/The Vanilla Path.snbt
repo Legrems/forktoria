@@ -1,0 +1,525 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "The Vanilla Path"
+	group: ""
+	icon: {
+		id: "minecraft:grass_block"
+	}
+	id: "1255F4DC73E8D666"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "01D2F15B2E64054F"
+			tasks: [{
+				advancement: "minecraft:story/root"
+				criterion: ""
+				id: "E3F7C1F629BE1BBA"
+				type: "advancement"
+			}]
+			x: -19.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["01D2F15B2E64054F"]
+			icon: {
+				id: "minecraft:wooden_pickaxe"
+			}
+			id: "21181F986A1BFFFA"
+			tasks: [{
+				advancement: "minecraft:story/mine_stone"
+				criterion: ""
+				id: "9C09AD79CAF38897"
+				type: "advancement"
+			}]
+			x: -16.4d
+			y: -11.3d
+		}
+		{
+			dependencies: ["21181F986A1BFFFA"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "1CCDF46561A8193E"
+			tasks: [{
+				advancement: "minecraft:story/upgrade_tools"
+				criterion: ""
+				id: "12D178769ED0753F"
+				type: "advancement"
+			}]
+			x: -13.8d
+			y: -9.0d
+		}
+		{
+			dependencies: ["1CCDF46561A8193E"]
+			icon: {
+				id: "minecraft:iron_ingot"
+			}
+			id: "6E4CA2E68B5435DA"
+			tasks: [{
+				advancement: "minecraft:story/smelt_iron"
+				criterion: ""
+				id: "1B3C970137AC5558"
+				type: "advancement"
+			}]
+			x: -11.2d
+			y: -9.0d
+		}
+		{
+			dependencies: ["6E4CA2E68B5435DA"]
+			icon: {
+				id: "minecraft:iron_chestplate"
+			}
+			id: "76EE758592A5EF60"
+			tasks: [{
+				advancement: "minecraft:story/obtain_armor"
+				criterion: ""
+				id: "F95B1B5EAE436B41"
+				type: "advancement"
+			}]
+			x: -8.6d
+			y: -10.15d
+		}
+		{
+			dependencies: ["01D2F15B2E64054F"]
+			icon: {
+				id: "minecraft:golden_apple"
+			}
+			id: "AA57A39537C22206"
+			tasks: [{
+				advancement: "minecraft:husbandry/balanced_diet"
+				criterion: ""
+				id: "0AC3092F31721BEE"
+				type: "advancement"
+			}]
+			x: -16.4d
+			y: -9.0d
+		}
+		{
+			dependencies: ["01D2F15B2E64054F"]
+			icon: {
+				id: "minecraft:bone"
+			}
+			id: "54F428EC93E66E6E"
+			tasks: [{
+				advancement: "minecraft:husbandry/tame_an_animal"
+				criterion: ""
+				id: "D6DF001A2E0D14F4"
+				type: "advancement"
+			}]
+			x: -16.4d
+			y: -6.7d
+		}
+		{
+			dependencies: ["6E4CA2E68B5435DA"]
+			icon: {
+				id: "minecraft:diamond"
+			}
+			id: "E3D844116B19FEE5"
+			tasks: [{
+				advancement: "minecraft:story/mine_diamond"
+				criterion: ""
+				id: "BF0A608E664CF824"
+				type: "advancement"
+			}]
+			x: -8.6d
+			y: -7.85d
+		}
+		{
+			dependencies: ["E3D844116B19FEE5"]
+			icon: {
+				id: "minecraft:enchanting_table"
+			}
+			id: "5365ED3E9F151B5A"
+			tasks: [{
+				advancement: "minecraft:story/enchant_item"
+				criterion: ""
+				id: "5C3F36CBE5E79BC9"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -7.85d
+		}
+		{
+			dependencies: ["E3D844116B19FEE5"]
+			icon: {
+				id: "minecraft:obsidian"
+			}
+			id: "69A9C6A07E36DD59"
+			tasks: [{
+				advancement: "minecraft:story/form_obsidian"
+				criterion: ""
+				id: "BB53B5495D84304C"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -10.15d
+		}
+		{
+			dependencies: ["69A9C6A07E36DD59"]
+			icon: {
+				id: "minecraft:flint_and_steel"
+			}
+			id: "3F1275E9337C8096"
+			tasks: [{
+				advancement: "minecraft:story/enter_the_nether"
+				criterion: ""
+				id: "3CC2D375D4451D33"
+				type: "advancement"
+			}]
+			x: -19.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3F1275E9337C8096"]
+			icon: {
+				id: "minecraft:blaze_rod"
+			}
+			id: "69D351C754FBDA46"
+			tasks: [{
+				advancement: "minecraft:nether/obtain_blaze_rod"
+				criterion: ""
+				id: "6691123E8BF11A39"
+				type: "advancement"
+			}]
+			x: -16.4d
+			y: 0.55d
+		}
+		{
+			dependencies: ["3F1275E9337C8096"]
+			icon: {
+				id: "minecraft:nether_bricks"
+			}
+			id: "5879AD37CD2CE406"
+			tasks: [{
+				advancement: "minecraft:nether/find_fortress"
+				criterion: ""
+				id: "CE8D20147F396CF4"
+				type: "advancement"
+			}]
+			x: -16.4d
+			y: 2.85d
+		}
+		{
+			dependencies: ["3F1275E9337C8096"]
+			icon: {
+				id: "minecraft:gold_ingot"
+			}
+			id: "7C88CC2620FBC3E3"
+			tasks: [{
+				advancement: "minecraft:nether/distract_piglin"
+				criterion: ""
+				id: "D0D4305A79D281FB"
+				type: "advancement"
+			}]
+			x: -16.4d
+			y: 5.15d
+		}
+		{
+			dependencies: ["3F1275E9337C8096"]
+			icon: {
+				id: "minecraft:polished_blackstone_bricks"
+			}
+			id: "FF567727DB0A4AFC"
+			tasks: [{
+				advancement: "minecraft:nether/find_bastion"
+				criterion: ""
+				id: "D8B094F07B208358"
+				type: "advancement"
+			}]
+			x: -16.4d
+			y: 7.45d
+		}
+		{
+			dependencies: ["FF567727DB0A4AFC"]
+			icon: {
+				id: "minecraft:chest"
+			}
+			id: "FE5F976012835898"
+			tasks: [{
+				advancement: "minecraft:nether/loot_bastion"
+				criterion: ""
+				id: "AC06D675AFB2CE77"
+				type: "advancement"
+			}]
+			x: -13.8d
+			y: 1.7d
+		}
+		{
+			dependencies: ["FF567727DB0A4AFC"]
+			icon: {
+				id: "minecraft:ancient_debris"
+			}
+			id: "CD4E57B67E8D4172"
+			tasks: [{
+				advancement: "minecraft:nether/obtain_ancient_debris"
+				criterion: ""
+				id: "023BA8050478D94E"
+				type: "advancement"
+			}]
+			x: -13.8d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5879AD37CD2CE406"]
+			icon: {
+				id: "minecraft:wither_skeleton_skull"
+			}
+			id: "3760A39F1A19AC5D"
+			tasks: [{
+				advancement: "minecraft:nether/get_wither_skull"
+				criterion: ""
+				id: "3B5D2D1637D50E68"
+				type: "advancement"
+			}]
+			x: -13.8d
+			y: 6.3d
+		}
+		{
+			dependencies: ["CD4E57B67E8D4172"]
+			icon: {
+				id: "minecraft:netherite_chestplate"
+			}
+			id: "4C5FC7C5572307E5"
+			tasks: [{
+				advancement: "minecraft:nether/netherite_armor"
+				criterion: ""
+				id: "2A4C31F2CBC97971"
+				type: "advancement"
+			}]
+			x: -11.2d
+			y: 4.0d
+		}
+		{
+			dependencies: ["69D351C754FBDA46"]
+			icon: {
+				id: "minecraft:ender_eye"
+			}
+			id: "3134609125A80D4D"
+			tasks: [{
+				advancement: "minecraft:story/follow_ender_eye"
+				criterion: ""
+				id: "B1E5BFCD7C7B58E2"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["3134609125A80D4D"]
+			icon: {
+				id: "minecraft:end_portal_frame"
+			}
+			id: "812DD3D536862160"
+			tasks: [{
+				advancement: "minecraft:story/enter_the_end"
+				criterion: ""
+				id: "91BAB75DFB4EFFD9"
+				type: "advancement"
+			}]
+			x: 4.6d
+			y: -9.0d
+		}
+		{
+			dependencies: ["812DD3D536862160"]
+			icon: {
+				id: "minecraft:dragon_head"
+			}
+			id: "98FDCAD313F3D28E"
+			size: 1.5d
+			tasks: [{
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+				id: "C1962C1ED20348A9"
+				type: "advancement"
+			}]
+			x: 7.2d
+			y: -9.0d
+		}
+		{
+			dependencies: ["98FDCAD313F3D28E"]
+			icon: {
+				id: "minecraft:dragon_breath"
+			}
+			id: "0526A153B5A2E4E4"
+			tasks: [{
+				advancement: "minecraft:end/dragon_breath"
+				criterion: ""
+				id: "55E9969BFCA04570"
+				type: "advancement"
+			}]
+			x: 9.8d
+			y: -11.3d
+		}
+		{
+			dependencies: ["98FDCAD313F3D28E"]
+			icon: {
+				id: "minecraft:dragon_egg"
+			}
+			id: "98F900A1DA7AF203"
+			tasks: [{
+				advancement: "minecraft:end/dragon_egg"
+				criterion: ""
+				id: "4D53F69661504A90"
+				type: "advancement"
+			}]
+			x: 9.8d
+			y: -9.0d
+		}
+		{
+			dependencies: ["98FDCAD313F3D28E"]
+			icon: {
+				id: "minecraft:ender_pearl"
+			}
+			id: "F45E9BC64A261A04"
+			tasks: [{
+				advancement: "minecraft:end/enter_end_gateway"
+				criterion: ""
+				id: "D26A28B421A9DA15"
+				type: "advancement"
+			}]
+			x: 9.8d
+			y: -6.7d
+		}
+		{
+			dependencies: ["F45E9BC64A261A04"]
+			icon: {
+				id: "minecraft:elytra"
+			}
+			id: "7693C4C0FE4EA1C6"
+			tasks: [{
+				advancement: "minecraft:end/elytra"
+				criterion: ""
+				id: "40C76478A3AB1A46"
+				type: "advancement"
+			}]
+			x: 12.4d
+			y: -9.0d
+		}
+		{
+			dependencies: ["76EE758592A5EF60"]
+			icon: {
+				id: "minecraft:crossbow"
+			}
+			id: "EE0098C24F82BCF8"
+			tasks: [{
+				advancement: "minecraft:adventure/voluntary_exile"
+				criterion: ""
+				id: "FE85D41B915714EF"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.55d
+		}
+		{
+			dependencies: ["EE0098C24F82BCF8"]
+			icon: {
+				id: "minecraft:totem_of_undying"
+			}
+			id: "786B72D76C237BC9"
+			tasks: [{
+				advancement: "minecraft:adventure/hero_of_the_village"
+				criterion: ""
+				id: "665FEF66633598BD"
+				type: "advancement"
+			}]
+			x: 4.6d
+			y: 2.85d
+		}
+		{
+			dependencies: ["3760A39F1A19AC5D"]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "91BC01E98B83965B"
+			size: 1.5d
+			tasks: [
+			{
+				advancement: "minecraft:nether/summon_wither"
+				criterion: ""
+				id: "51A12227CBDD0528"
+				type: "advancement"
+			}
+			{
+				entity: "minecraft:wither"
+				id: "600AC6CBFB061302"
+				type: "kill"
+				value: 1L
+			}
+			]
+			x: 2.0d
+			y: 2.85d
+		}
+		{
+			dependencies: ["E3D844116B19FEE5"]
+			icon: {
+				id: "minecraft:prismarine_shard"
+			}
+			id: "8F099EC1B555489B"
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				id: "0E1A2F73B31CAA4B"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: 5.15d
+		}
+		{
+			dependencies: ["4C5FC7C5572307E5"]
+			icon: {
+				id: "minecraft:sculk_sensor"
+			}
+			id: "6B4707EB5BAECBE0"
+			tasks: [{
+				advancement: "minecraft:adventure/avoid_vibration"
+				criterion: ""
+				id: "C650BA77BE9C6A60"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 7.45d
+		}
+		{
+			dependencies: ["6B4707EB5BAECBE0"]
+			icon: {
+				id: "minecraft:echo_shard"
+			}
+			id: "DC3C4C3732B6DE82"
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "BD23228B6690421D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.6d
+			y: 5.15d
+		}
+		{
+			dependencies: [
+				"786B72D76C237BC9"
+				"91BC01E98B83965B"
+				"8F099EC1B555489B"
+				"DC3C4C3732B6DE82"
+				"98FDCAD313F3D28E"
+			]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "607F89005FFBDA65"
+			size: 3.0d
+			tasks: [{
+				id: "D3CCAE6C90DC0899"
+				type: "checkmark"
+			}]
+			x: -8.5d
+			y: -2.0d
+		}
+	]
+}

@@ -1,0 +1,105 @@
+{
+	chapter.1255F4DC73E8D666.title: "&2The Vanilla Path"
+	quest.01D2F15B2E64054F.title: "Waking Up"
+	quest.01D2F15B2E64054F.quest_subtitle: "Welcome to Craftoria"
+	quest.01D2F15B2E64054F.quest_desc: ["Open your inventory and take your first look at the world."]
+	quest.21181F986A1BFFFA.title: "Stone Age"
+	quest.21181F986A1BFFFA.quest_subtitle: "Punch a tree, then mine some stone"
+	quest.21181F986A1BFFFA.quest_desc: ["Craft a wooden pickaxe and use it to mine your first block of &7cobblestone&r."]
+	quest.1CCDF46561A8193E.title: "Getting an Upgrade"
+	quest.1CCDF46561A8193E.quest_subtitle: "Stone tools"
+	quest.1CCDF46561A8193E.quest_desc: ["Craft a full set of &7stone tools&r."]
+	quest.6E4CA2E68B5435DA.title: "Acquire Hardware"
+	quest.6E4CA2E68B5435DA.quest_subtitle: "Smelt your first iron"
+	quest.6E4CA2E68B5435DA.quest_desc: ["Build a &6furnace&r and smelt &7iron ore&r into an &6iron ingot&r."]
+	quest.76EE758592A5EF60.title: "Suit Up"
+	quest.76EE758592A5EF60.quest_subtitle: "Iron armor"
+	quest.76EE758592A5EF60.quest_desc: ["Craft a full set of &6iron armor&r. You'll need it soon."]
+	quest.AA57A39537C22206.title: "A Balanced Diet"
+	quest.AA57A39537C22206.quest_subtitle: "Eat a bit of everything"
+	quest.AA57A39537C22206.quest_desc: ["Set up a small &afarm&r and eat every kind of food in the game at least once."]
+	quest.54F428EC93E66E6E.title: "Best Friends Forever"
+	quest.54F428EC93E66E6E.quest_subtitle: "Tame an animal"
+	quest.54F428EC93E66E6E.quest_desc: ["Tame a &6wolf&r, &dcat&r, or &bhorse&r."]
+	quest.E3D844116B19FEE5.title: "Diamonds!"
+	quest.E3D844116B19FEE5.quest_subtitle: "Strike it rich"
+	quest.E3D844116B19FEE5.quest_desc: ["Head underground with your iron pickaxe and find &bdiamond ore&r."]
+	quest.5365ED3E9F151B5A.title: "Enchanter"
+	quest.5365ED3E9F151B5A.quest_subtitle: "Build an enchanting table"
+	quest.5365ED3E9F151B5A.quest_desc: ["Combine &bdiamonds&r, &7obsidian&r and a &fbook&r into an &denchanting table&r, then enchant an item."]
+	quest.69A9C6A07E36DD59.title: "Ice Bucket Challenge"
+	quest.69A9C6A07E36DD59.quest_subtitle: "Craft obsidian"
+	quest.69A9C6A07E36DD59.quest_desc: [
+		"Use your &bdiamond pickaxe&r to mine &7obsidian&r formed by water and lava."
+		"You'll need a stack of it for what comes next."
+	]
+	quest.3F1275E9337C8096.title: "We Need to Go Deeper"
+	quest.3F1275E9337C8096.quest_subtitle: "Enter the Nether"
+	quest.3F1275E9337C8096.quest_desc: ["Build a portal frame out of &7obsidian&r, light it, and step through."]
+	quest.69D351C754FBDA46.title: "Into Fire"
+	quest.69D351C754FBDA46.quest_subtitle: "Blaze rods"
+	quest.69D351C754FBDA46.quest_desc: ["Find a &6Nether Fortress&r and defeat a &6Blaze&r for its rod."]
+	quest.5879AD37CD2CE406.title: "A Terrible Fortress"
+	quest.5879AD37CD2CE406.quest_subtitle: "Find a Nether Fortress"
+	quest.7C88CC2620FBC3E3.title: "Oh Shiny"
+	quest.7C88CC2620FBC3E3.quest_subtitle: "Piglins love gold"
+	quest.7C88CC2620FBC3E3.quest_desc: ["Wear at least one piece of &6golden armor&r to distract a &ePiglin&r."]
+	quest.FF567727DB0A4AFC.title: "Those Were the Days"
+	quest.FF567727DB0A4AFC.quest_subtitle: "Find a Bastion Remnant"
+	quest.FE5F976012835898.title: "War Pigs"
+	quest.FE5F976012835898.quest_subtitle: "Loot a Bastion chest"
+	quest.CD4E57B67E8D4172.title: "Hidden in the Depths"
+	quest.CD4E57B67E8D4172.quest_subtitle: "Ancient Debris"
+	quest.CD4E57B67E8D4172.quest_desc: ["Mine &5Ancient Debris&r, deep in the Nether."]
+	quest.3760A39F1A19AC5D.title: "Spooky Scary Skeleton"
+	quest.3760A39F1A19AC5D.quest_subtitle: "A Wither Skeleton skull"
+	quest.3760A39F1A19AC5D.quest_desc: ["Wither Skeletons have a small chance to drop their skull when killed."]
+	quest.4C5FC7C5572307E5.title: "Cover Me in Debris"
+	quest.4C5FC7C5572307E5.quest_subtitle: "Full netherite armor"
+	quest.4C5FC7C5572307E5.quest_desc: ["Smelt Ancient Debris into &5netherite scrap&r, combine it with gold, and upgrade your diamond armor."]
+	quest.3134609125A80D4D.title: "Eye Spy"
+	quest.3134609125A80D4D.quest_subtitle: "Craft an Eye of Ender"
+	quest.3134609125A80D4D.quest_desc: ["Combine &5blaze powder&r with an &2ender pearl&r and follow the eye to a &dstronghold&r."]
+	quest.812DD3D536862160.title: "The End?"
+	quest.812DD3D536862160.quest_subtitle: "Enter the End"
+	quest.812DD3D536862160.quest_desc: ["Fill the End Portal frame with &2Eyes of Ender&r and jump in."]
+	quest.98FDCAD313F3D28E.title: "Free the End"
+	quest.98FDCAD313F3D28E.quest_subtitle: "Defeat the Ender Dragon"
+	quest.98FDCAD313F3D28E.quest_desc: ["Destroy the &dEnd Crystals&r on the obsidian pillars, then bring down the &5Ender Dragon&r."]
+	quest.0526A153B5A2E4E4.title: "You Need a Mint"
+	quest.0526A153B5A2E4E4.quest_subtitle: "Collect Dragon's Breath"
+	quest.98F900A1DA7AF203.title: "The Next Generation"
+	quest.98F900A1DA7AF203.quest_subtitle: "Take the Dragon Egg"
+	quest.F45E9BC64A261A04.title: "Remote Getaway"
+	quest.F45E9BC64A261A04.quest_subtitle: "Use an End Gateway"
+	quest.F45E9BC64A261A04.quest_desc: ["Find one of the End Gateways surrounding the main island to reach the &doutlands&r."]
+	quest.7693C4C0FE4EA1C6.title: "Sky's the Limit"
+	quest.7693C4C0FE4EA1C6.quest_subtitle: "Obtain Elytra"
+	quest.7693C4C0FE4EA1C6.quest_desc: ["Explore an &dEnd City&r and loot Elytra from its ship."]
+	quest.EE0098C24F82BCF8.title: "Voluntary Exile"
+	quest.EE0098C24F82BCF8.quest_subtitle: "Kill a Pillager Captain"
+	quest.EE0098C24F82BCF8.quest_desc: ["Pillager Captains carry a banner and grant &4Bad Omen&r when killed nearby a village."]
+	quest.786B72D76C237BC9.title: "Hero of the Village"
+	quest.786B72D76C237BC9.quest_subtitle: "Survive a Raid"
+	quest.786B72D76C237BC9.quest_desc: ["Walk into a village with &4Bad Omen&r active and survive the raid that follows."]
+	quest.91BC01E98B83965B.title: "Withering Heights"
+	quest.91BC01E98B83965B.quest_subtitle: "Summon and defeat the Wither"
+	quest.91BC01E98B83965B.quest_desc: ["Stack 3 &7Wither Skeleton Skulls&r on 4 &7Soul Sand&r/&7Soil&r to summon the &8Wither&r, then defeat it."]
+	quest.8F099EC1B555489B.title: "Guardian of the Deep"
+	quest.8F099EC1B555489B.quest_subtitle: "Clear an Ocean Monument"
+	quest.8F099EC1B555489B.quest_desc: ["Find an &bOcean Monument&r and defeat an &2Elder Guardian&r inside."]
+	quest.6B4707EB5BAECBE0.title: "Sneak 100"
+	quest.6B4707EB5BAECBE0.quest_subtitle: "Avoid a Sculk Sensor"
+	quest.6B4707EB5BAECBE0.quest_desc: ["Venture into the &0Deep Dark&r and sneak past a Sculk Sensor without triggering it."]
+	quest.DC3C4C3732B6DE82.title: "The Deep Dark"
+	quest.DC3C4C3732B6DE82.quest_subtitle: "Defeat the Warden"
+	quest.DC3C4C3732B6DE82.quest_desc: ["The &0Warden&r is blind but deadly - fight it only if you're fully geared up."]
+	quest.607F89005FFBDA65.title: "Champion of Craftoria"
+	quest.607F89005FFBDA65.quest_subtitle: "You've conquered vanilla Minecraft"
+	quest.607F89005FFBDA65.quest_desc: [
+		"You've mastered the &6Overworld&r, braved the &4Nether&r, conquered the &5End&r, "
+		"and defeated every vanilla boss Minecraft has to offer."
+		""
+		"Time to see what &6Craftoria&r's mods have in store for you."
+	]
+}
