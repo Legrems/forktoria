@@ -677,6 +677,7 @@
 				"320C2F44DD138054"
 				"630EF1A8715E2D90"
 			]
+			hide_dependency_lines: true
 			icon: {
 				components: {
 					"trofers:trophy": "trofers:bosses"
@@ -684,7 +685,6 @@
 				id: "trofers:medium_pillar"
 			}
 			icon_scale: 1.5d
-			hide_dependency_lines: true
 			id: "65AA8B8D22954941"
 			rewards: [{
 				id: "5358434D18BCB827"

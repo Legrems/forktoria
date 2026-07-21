@@ -74,175 +74,187 @@
 		{
 			id: "4ED59433AD9C1E55"
 			linked_quest: "02AE5771A57BC6BE"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -15.5d
 			y: 4.625d
 		}
 		{
-			id: "D0DE969497427E2A"
+			id: "1517D6D59C4134AD"
 			linked_quest: "5FCE0573AA70913A"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -12.9d
 			y: 4.625d
 		}
 		{
-			id: "AE7D087DF6C01D92"
+			id: "2AD92426B3ECD1A3"
 			linked_quest: "15D18F5637F6382E"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -10.3d
 			y: 4.625d
 		}
 		{
-			id: "BF6DD25D2A85302D"
+			id: "6DBAF0DB13CB32CC"
 			linked_quest: "3288EB24E412AF9A"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -11.6d
 			y: 4.625d
 		}
 		{
-			id: "958D810AA9D1ABB9"
+			id: "201358619DC78D64"
 			linked_quest: "6F07EDE7A819467B"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -9.0d
 			y: 4.625d
 		}
 		{
-			id: "93ACA8359A026D9B"
+			id: "1B89BBA7E2D9A0F2"
 			linked_quest: "7ED9955750255A69"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -14.875d
 			y: 6.375d
 		}
 		{
-			id: "A24B4D0B56014EB6"
+			id: "1CC1AB64189F4873"
 			linked_quest: "157239360F696AF7"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -8.375d
 			y: 6.375d
 		}
 		{
 			id: "55817AEC8E7A656C"
 			linked_quest: "3E9D2DA07E8617EA"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -10.5d
 			y: 6.375d
 		}
 		{
 			id: "05802B50C50B6A41"
 			linked_quest: "375B2C2D89889153"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -7.7d
 			y: 4.625d
 		}
 		{
 			id: "31257FCE0195A754"
 			linked_quest: "739D2E03341174B1"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -13.75d
 			y: 8.125d
 		}
 		{
 			id: "0525FACEEF88972A"
 			linked_quest: "1F0B8A0EBCBA4399"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -12.75d
 			y: 6.375d
 		}
 		{
 			id: "1C5D55FE24B77C45"
 			linked_quest: "7A79DC2CE5CC9DEE"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -14.2d
 			y: 4.625d
 		}
 		{
 			id: "09DAB3859D53D8E8"
 			linked_quest: "65AA8B8D22954941"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -11.5d
 			y: 8.125d
 		}
 		{
-			id: "F0B5D817D6BA0E04"
+			id: "104F743B52AFB77F"
 			linked_quest: "678A65A6A3461CFC"
-			shape: "circle"
+			shape: "none"
+			size: 2.0d
 			x: -9.25d
 			y: 8.125d
 		}
 	]
-	quests: [
-		{
-			dependencies: [
-				"3E9D2DA07E8617EA"
-				"6F07EDE7A819467B"
-				"7ED9955750255A69"
-				"3288EB24E412AF9A"
-				"5FCE0573AA70913A"
-				"157239360F696AF7"
-				"02AE5771A57BC6BE"
-				"15D18F5637F6382E"
-				"739D2E03341174B1"
-				"375B2C2D89889153"
-				"1F0B8A0EBCBA4399"
-				"7A79DC2CE5CC9DEE"
-				"65AA8B8D22954941"
-				"678A65A6A3461CFC"
-			]
-			hide_dependency_lines: true
-			hide_dependent_lines: true
-			icon: {
-				components: {
-					"trofers:trophy": "trofers:completionist"
-				}
-				id: "trofers:large_plate"
+	quests: [{
+		dependencies: [
+			"3E9D2DA07E8617EA"
+			"6F07EDE7A819467B"
+			"7ED9955750255A69"
+			"3288EB24E412AF9A"
+			"5FCE0573AA70913A"
+			"157239360F696AF7"
+			"02AE5771A57BC6BE"
+			"15D18F5637F6382E"
+			"739D2E03341174B1"
+			"375B2C2D89889153"
+			"1F0B8A0EBCBA4399"
+			"7A79DC2CE5CC9DEE"
+			"65AA8B8D22954941"
+			"678A65A6A3461CFC"
+		]
+		hide_dependency_lines: true
+		hide_dependent_lines: true
+		icon: {
+			components: {
+				"trofers:trophy": "trofers:completionist"
 			}
-			icon_scale: 2.0d
-			id: "300F6868FC217C55"
-			rewards: [
-				{
-					id: "20A6F47DE5D12D29"
-					item: {
-						count: 1
-						id: "craftoria:completionist_cup"
-					}
-					type: "item"
-				}
-				{
-					id: "4F40E0A697EC8324"
-					item: {
-						components: {
-							"trofers:trophy": "trofers:completionist"
-						}
-						count: 1
-						id: "trofers:large_plate"
-					}
-					type: "item"
-				}
-				{
-					id: "638E9168455C6DDA"
-					item: {
-						count: 1
-						id: "craftoria:infinity_flux_cell"
-					}
-					type: "item"
-				}
-				{
-					id: "5809055E8080AC85"
-					item: {
-						count: 1
-						id: "craftoria:infinity_uu_matter_cell"
-					}
-					type: "item"
-				}
-			]
-			shape: "none"
-			size: 2.5d
-			tasks: [{
-				id: "029B80BE103230CD"
-				type: "checkmark"
-			}]
-			x: -3.25d
-			y: 7.875d
+			id: "trofers:large_plate"
 		}
-	]
+		icon_scale: 2.0d
+		id: "300F6868FC217C55"
+		rewards: [
+			{
+				id: "20A6F47DE5D12D29"
+				item: {
+					count: 1
+					id: "craftoria:completionist_cup"
+				}
+				type: "item"
+			}
+			{
+				id: "4F40E0A697EC8324"
+				item: {
+					components: {
+						"trofers:trophy": "trofers:completionist"
+					}
+					count: 1
+					id: "trofers:large_plate"
+				}
+				type: "item"
+			}
+			{
+				id: "638E9168455C6DDA"
+				item: {
+					count: 1
+					id: "craftoria:infinity_flux_cell"
+				}
+				type: "item"
+			}
+			{
+				id: "5809055E8080AC85"
+				item: {
+					count: 1
+					id: "craftoria:infinity_uu_matter_cell"
+				}
+				type: "item"
+			}
+		]
+		shape: "none"
+		size: 2.5d
+		tasks: [{
+			id: "029B80BE103230CD"
+			type: "checkmark"
+		}]
+		x: -3.25d
+		y: 7.875d
+	}]
 }

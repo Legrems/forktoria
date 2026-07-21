@@ -7,7 +7,6 @@
 		id: "minecraft:grass_block"
 	}
 	id: "1255F4DC73E8D666"
-	images: [ ]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -19,7 +18,7 @@
 			tasks: [{
 				advancement: "minecraft:story/root"
 				criterion: ""
-				id: "E3F7C1F629BE1BBA"
+				id: "177D308152393DDA"
 				type: "advancement"
 			}]
 			x: -19.0d
@@ -34,7 +33,7 @@
 			tasks: [{
 				advancement: "minecraft:story/mine_stone"
 				criterion: ""
-				id: "9C09AD79CAF38897"
+				id: "0CA8B1D9EBE9F44D"
 				type: "advancement"
 			}]
 			x: -16.4d
@@ -79,7 +78,7 @@
 			tasks: [{
 				advancement: "minecraft:story/obtain_armor"
 				criterion: ""
-				id: "F95B1B5EAE436B41"
+				id: "0A0C6493E18C62A8"
 				type: "advancement"
 			}]
 			x: -8.6d
@@ -90,7 +89,7 @@
 			icon: {
 				id: "minecraft:golden_apple"
 			}
-			id: "AA57A39537C22206"
+			id: "1961696498AF27DC"
 			tasks: [{
 				advancement: "minecraft:husbandry/balanced_diet"
 				criterion: ""
@@ -109,7 +108,7 @@
 			tasks: [{
 				advancement: "minecraft:husbandry/tame_an_animal"
 				criterion: ""
-				id: "D6DF001A2E0D14F4"
+				id: "3FF24CB112B98730"
 				type: "advancement"
 			}]
 			x: -16.4d
@@ -120,18 +119,17 @@
 			icon: {
 				id: "minecraft:diamond"
 			}
-			id: "E3D844116B19FEE5"
+			id: "3D9DF52AA98C502D"
 			tasks: [{
 				advancement: "minecraft:story/mine_diamond"
 				criterion: ""
-				id: "BF0A608E664CF824"
+				id: "7B8B79C6AB9DC3E0"
 				type: "advancement"
 			}]
 			x: -8.6d
 			y: -7.85d
 		}
 		{
-			dependencies: ["E3D844116B19FEE5"]
 			icon: {
 				id: "minecraft:enchanting_table"
 			}
@@ -146,7 +144,6 @@
 			y: -7.85d
 		}
 		{
-			dependencies: ["E3D844116B19FEE5"]
 			icon: {
 				id: "minecraft:obsidian"
 			}
@@ -154,7 +151,7 @@
 			tasks: [{
 				advancement: "minecraft:story/form_obsidian"
 				criterion: ""
-				id: "BB53B5495D84304C"
+				id: "6951248B43F9C8E2"
 				type: "advancement"
 			}]
 			x: -6.0d
@@ -199,7 +196,7 @@
 			tasks: [{
 				advancement: "minecraft:nether/find_fortress"
 				criterion: ""
-				id: "CE8D20147F396CF4"
+				id: "12B51E4876573100"
 				type: "advancement"
 			}]
 			x: -16.4d
@@ -214,7 +211,7 @@
 			tasks: [{
 				advancement: "minecraft:nether/distract_piglin"
 				criterion: ""
-				id: "D0D4305A79D281FB"
+				id: "10C9884BF03D32E7"
 				type: "advancement"
 			}]
 			x: -16.4d
@@ -225,37 +222,35 @@
 			icon: {
 				id: "minecraft:polished_blackstone_bricks"
 			}
-			id: "FF567727DB0A4AFC"
+			id: "7DADC57917B7CF46"
 			tasks: [{
 				advancement: "minecraft:nether/find_bastion"
 				criterion: ""
-				id: "D8B094F07B208358"
+				id: "1E9BFEC3E9D53772"
 				type: "advancement"
 			}]
 			x: -16.4d
 			y: 7.45d
 		}
 		{
-			dependencies: ["FF567727DB0A4AFC"]
 			icon: {
 				id: "minecraft:chest"
 			}
-			id: "FE5F976012835898"
+			id: "2B514A41C35B06B8"
 			tasks: [{
 				advancement: "minecraft:nether/loot_bastion"
 				criterion: ""
-				id: "AC06D675AFB2CE77"
+				id: "4F4E6EA69A0D7E60"
 				type: "advancement"
 			}]
 			x: -13.8d
 			y: 1.7d
 		}
 		{
-			dependencies: ["FF567727DB0A4AFC"]
 			icon: {
 				id: "minecraft:ancient_debris"
 			}
-			id: "CD4E57B67E8D4172"
+			id: "7B9DF323165AFC0E"
 			tasks: [{
 				advancement: "minecraft:nether/obtain_ancient_debris"
 				criterion: ""
@@ -281,7 +276,6 @@
 			y: 6.3d
 		}
 		{
-			dependencies: ["CD4E57B67E8D4172"]
 			icon: {
 				id: "minecraft:netherite_chestplate"
 			}
@@ -304,7 +298,7 @@
 			tasks: [{
 				advancement: "minecraft:story/follow_ender_eye"
 				criterion: ""
-				id: "B1E5BFCD7C7B58E2"
+				id: "0B6FB187237DE91D"
 				type: "advancement"
 			}]
 			x: 2.0d
@@ -315,34 +309,32 @@
 			icon: {
 				id: "minecraft:end_portal_frame"
 			}
-			id: "812DD3D536862160"
+			id: "1A7F541CE6C47966"
 			tasks: [{
 				advancement: "minecraft:story/enter_the_end"
 				criterion: ""
-				id: "91BAB75DFB4EFFD9"
+				id: "7C9D4F0ABB591C4D"
 				type: "advancement"
 			}]
 			x: 4.6d
 			y: -9.0d
 		}
 		{
-			dependencies: ["812DD3D536862160"]
 			icon: {
 				id: "minecraft:dragon_head"
 			}
-			id: "98FDCAD313F3D28E"
+			id: "70087D482E399051"
 			size: 1.5d
 			tasks: [{
 				advancement: "minecraft:end/kill_dragon"
 				criterion: ""
-				id: "C1962C1ED20348A9"
+				id: "6CD5E1E885B2D72F"
 				type: "advancement"
 			}]
 			x: 7.2d
 			y: -9.0d
 		}
 		{
-			dependencies: ["98FDCAD313F3D28E"]
 			icon: {
 				id: "minecraft:dragon_breath"
 			}
@@ -357,11 +349,10 @@
 			y: -11.3d
 		}
 		{
-			dependencies: ["98FDCAD313F3D28E"]
 			icon: {
 				id: "minecraft:dragon_egg"
 			}
-			id: "98F900A1DA7AF203"
+			id: "100E7950854B5E7C"
 			tasks: [{
 				advancement: "minecraft:end/dragon_egg"
 				criterion: ""
@@ -372,22 +363,20 @@
 			y: -9.0d
 		}
 		{
-			dependencies: ["98FDCAD313F3D28E"]
 			icon: {
 				id: "minecraft:ender_pearl"
 			}
-			id: "F45E9BC64A261A04"
+			id: "2D94B13DD2EBAAD0"
 			tasks: [{
 				advancement: "minecraft:end/enter_end_gateway"
 				criterion: ""
-				id: "D26A28B421A9DA15"
+				id: "0B7DF34B1C6D975E"
 				type: "advancement"
 			}]
 			x: 9.8d
 			y: -6.7d
 		}
 		{
-			dependencies: ["F45E9BC64A261A04"]
 			icon: {
 				id: "minecraft:elytra"
 			}
@@ -406,18 +395,17 @@
 			icon: {
 				id: "minecraft:crossbow"
 			}
-			id: "EE0098C24F82BCF8"
+			id: "4D3CC4C5136FC2E3"
 			tasks: [{
 				advancement: "minecraft:adventure/voluntary_exile"
 				criterion: ""
-				id: "FE85D41B915714EF"
+				id: "52923A7D724C2A7A"
 				type: "advancement"
 			}]
 			x: 2.0d
 			y: 0.55d
 		}
 		{
-			dependencies: ["EE0098C24F82BCF8"]
 			icon: {
 				id: "minecraft:totem_of_undying"
 			}
@@ -436,31 +424,30 @@
 			icon: {
 				id: "minecraft:nether_star"
 			}
-			id: "91BC01E98B83965B"
+			id: "1543F5EBDE3E8958"
 			size: 1.5d
 			tasks: [
-			{
-				advancement: "minecraft:nether/summon_wither"
-				criterion: ""
-				id: "51A12227CBDD0528"
-				type: "advancement"
-			}
-			{
-				entity: "minecraft:wither"
-				id: "600AC6CBFB061302"
-				type: "kill"
-				value: 1L
-			}
+				{
+					advancement: "minecraft:nether/summon_wither"
+					criterion: ""
+					id: "51A12227CBDD0528"
+					type: "advancement"
+				}
+				{
+					entity: "minecraft:wither"
+					id: "600AC6CBFB061302"
+					type: "kill"
+					value: 1L
+				}
 			]
 			x: 2.0d
 			y: 2.85d
 		}
 		{
-			dependencies: ["E3D844116B19FEE5"]
 			icon: {
 				id: "minecraft:prismarine_shard"
 			}
-			id: "8F099EC1B555489B"
+			id: "1E6495BE674F5288"
 			tasks: [{
 				entity: "minecraft:elder_guardian"
 				id: "0E1A2F73B31CAA4B"
@@ -479,7 +466,7 @@
 			tasks: [{
 				advancement: "minecraft:adventure/avoid_vibration"
 				criterion: ""
-				id: "C650BA77BE9C6A60"
+				id: "0F3141E9F151C44D"
 				type: "advancement"
 			}]
 			x: 2.0d
@@ -490,11 +477,11 @@
 			icon: {
 				id: "minecraft:echo_shard"
 			}
-			id: "DC3C4C3732B6DE82"
+			id: "06C020A6CAA1A219"
 			size: 1.5d
 			tasks: [{
 				entity: "minecraft:warden"
-				id: "BD23228B6690421D"
+				id: "38B6C19E8DF71D22"
 				type: "kill"
 				value: 1L
 			}]
@@ -502,20 +489,14 @@
 			y: 5.15d
 		}
 		{
-			dependencies: [
-				"786B72D76C237BC9"
-				"91BC01E98B83965B"
-				"8F099EC1B555489B"
-				"DC3C4C3732B6DE82"
-				"98FDCAD313F3D28E"
-			]
+			dependencies: ["786B72D76C237BC9"]
 			icon: {
 				id: "minecraft:nether_star"
 			}
 			id: "607F89005FFBDA65"
 			size: 3.0d
 			tasks: [{
-				id: "D3CCAE6C90DC0899"
+				id: "26B57EB0D5AB623B"
 				type: "checkmark"
 			}]
 			x: -8.5d

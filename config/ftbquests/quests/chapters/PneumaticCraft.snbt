@@ -1805,6 +1805,7 @@
 				"7342ABDAD6467123"
 				"7C895CB7DD5FEA8B"
 			]
+			hide_dependency_lines: true
 			icon: {
 				components: {
 					"trofers:trophy": "trofers:pnc"
@@ -1812,7 +1813,6 @@
 				id: "trofers:medium_pillar"
 			}
 			icon_scale: 1.5d
-			hide_dependency_lines: true
 			id: "375B2C2D89889153"
 			rewards: [{
 				id: "6584F562A9953442"

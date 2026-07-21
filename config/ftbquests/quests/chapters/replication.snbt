@@ -350,6 +350,7 @@
 				"6392FB264D1B2E52"
 				"47A87F0901355498"
 			]
+			hide_dependency_lines: true
 			icon: {
 				components: {
 					"trofers:trophy": "trofers:replication"
@@ -357,7 +358,6 @@
 				id: "trofers:medium_pillar"
 			}
 			icon_scale: 1.5d
-			hide_dependency_lines: true
 			id: "7A79DC2CE5CC9DEE"
 			rewards: [{
 				id: "1A05FE7F51F5C0E2"

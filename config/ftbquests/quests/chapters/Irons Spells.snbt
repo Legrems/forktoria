@@ -1648,6 +1648,7 @@
 				"5221657F939FE63B"
 				"3D78308A34152AB4"
 			]
+			hide_dependency_lines: true
 			icon: {
 				components: {
 					"trofers:trophy": "trofers:irons"
@@ -1655,7 +1656,6 @@
 				id: "trofers:medium_pillar"
 			}
 			icon_scale: 1.5d
-			hide_dependency_lines: true
 			id: "1F0B8A0EBCBA4399"
 			rewards: [{
 				id: "4C5CE82570A1C804"

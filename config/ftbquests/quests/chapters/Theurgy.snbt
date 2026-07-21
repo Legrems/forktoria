@@ -1010,9 +1010,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: [
-				"49CD3CFE65261255"
-			]
+			dependencies: ["49CD3CFE65261255"]
 			hide_dependency_lines: true
 			icon: {
 				components: {
