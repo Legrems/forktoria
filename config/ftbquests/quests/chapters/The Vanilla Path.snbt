@@ -21,24 +21,24 @@
 			image: "minecraft:block/torchflower"
 			rotation: 0.0d
 			width: 1.0d
-			x: -4.55d
-			y: 8.35d
+			x: -1.0d
+			y: 13.034183673469402d
 		}
 		{
 			height: 1.0d
 			image: "minecraft:block/torchflower"
 			rotation: 0.0d
 			width: 1.0d
-			x: -2.6d
-			y: 8.65d
+			x: 0.9500000000000002d
+			y: 13.334183673469402d
 		}
 		{
 			height: 1.0d
 			image: "minecraft:block/torchflower"
 			rotation: 0.0d
 			width: 1.0d
-			x: -3.85d
-			y: 9.6d
+			x: -0.2999999999999998d
+			y: 14.284183673469402d
 		}
 		{
 			height: 2.0d
@@ -192,6 +192,40 @@
 			x: 21.0d
 			y: 4.55d
 		}
+		{
+			click: "#499CF9F39CED8899"
+			height: 2.0d
+			image: "ftbquests:textures/logistics/id_item.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -7.2d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/logistics/logistics.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: -7.3d
+			y: 8.2d
+		}
+		{
+			click: "#1CFBA632673ABBFD"
+			height: 2.0d
+			image: "pocketmachines:item/chest_item"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.35d
+			y: 6.7d
+		}
+		{
+			height: 3.0d
+			image: "minecraft:textures/gui/title/minecraft.png"
+			rotation: 0.0d
+			width: 18.0d
+			x: -7.5d
+			y: 1.85d
+		}
 	]
 	order_index: 1
 	progression_mode: "flexible"
@@ -225,6 +259,14 @@
 			size: 2.0d
 			x: 8.1d
 			y: -2.0d
+		}
+		{
+			id: "03D20A2FBFF4D8C9"
+			linked_quest: "155DFB45ABCB5C6D"
+			shape: "gear"
+			size: 2.0d
+			x: -2.9000000000000004d
+			y: 10.25d
 		}
 	]
 	quests: [
@@ -701,8 +743,8 @@
 				item: { count: 1, id: "minecraft:brush" }
 				type: "item"
 			}]
-			x: -1.4d
-			y: 7.3658163265306d
+			x: 2.15d
+			y: 12.05d
 		}
 		{
 			dependencies: ["0F3D51FFD2FE8DCB"]
@@ -767,8 +809,8 @@
 				item: { components: { "ftbfiltersystem:filter": "item_tag(minecraft:trim_templates)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -3.0428571428571387d
-			y: 7.378571428571427d
+			x: 0.5071428571428607d
+			y: 12.062755102040828d
 		}
 		{
 			dependencies: ["3ADCAD65EA6900BA"]
@@ -794,8 +836,8 @@
 				item: { count: 1, id: "minecraft:sniffer_egg" }
 				type: "item"
 			}]
-			x: -1.4d
-			y: 9.115816326530599d
+			x: 2.15d
+			y: 13.799999999999999d
 		}
 		{
 			dependencies: ["6EDAB29FBD3C60A3"]
@@ -1221,6 +1263,17 @@
 			}]
 			x: 21.65d
 			y: -0.85d
+		}
+		{
+			dependencies: ["282CE3A088AE5CFB"]
+			id: "00FEEABBE8B3C94C"
+			tasks: [{
+				id: "04E8095D6D37BD62"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:chests)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.9000000000000004d
+			y: 8.4d
 		}
 	]
 }

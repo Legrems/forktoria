@@ -7,6 +7,8 @@
 	quest.0D8988AF02D890EA.title: "The Walking Dead"
 	quest.0ED5CB1120D1BD6E.quest_desc: ["Encontrados al explorar, los Pergaminos se encuentran por todo el mundo, pero si no tienes cuidado y decides usar el Pergamino, solo tendrá un uso."]
 	quest.0ED5CB1120D1BD6E.title: "Pergamino"
+	quest.1F0B8A0EBCBA4399.quest_subtitle: "Completa el capítulo de misiones."
+	quest.1F0B8A0EBCBA4399.title: "&bIron's Spells 'n Spellbooks"
 	quest.2085CB41244C2783.quest_desc: ["Mientras estés en el Nether, debes abrirte paso hasta los Hogs y obtener Piel de Hog."]
 	quest.28724CA9F837F710.quest_desc: ["Amuleto de Resonancia de Amatista - al equiparlo otorga un 15% de aumento en regeneración de maná."]
 	quest.2ACF8F5EFD3C4AF7.title: "Botas"
@@ -83,6 +85,7 @@
 	task.1ACF33BDD92D15DA.title: "MATAR al Papa"
 	task.1B5D407F2729F56F.title: "El Rey MUERTO"
 	task.1F5A29E07CD58234.title: "Sombreros"
+	task.256831387C82AA19.title: "Iron's Spells 'n Spellbooks"
 	task.4F7787C0557CF5CC.title: "Apo El Carista"
 	task.54E5D81FEE18AF83.title: "Piromante"
 	task.65B2D0E35B083E82.title: "Supervivencia del Más Fuerte"

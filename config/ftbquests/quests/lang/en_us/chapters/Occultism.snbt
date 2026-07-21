@@ -32,6 +32,8 @@
 	quest.15325B16AFE33D5C.quest_desc: ["You'll need &bTallow&r to make proper occultist candles. &6Killing larger animals&r with any &bknife&r will harvest some."]
 	quest.15325B16AFE33D5C.quest_subtitle: "Tools of the Trade"
 	quest.15325B16AFE33D5C.title: "Knives"
+	quest.157239360F696AF7.quest_subtitle: "Complete the quest chapter."
+	quest.157239360F696AF7.title: "&5Occultism"
 	quest.168AB4DADB1CA2D9.quest_desc: [
 		"All &bChalk&r is crafted &6impure&r, and can be &6purified&r in &5Spiritfire&r to become usable."
 		""

@@ -189,6 +189,8 @@
 		""
 		"&bSpawner Cores&r taken from a &bVanilla Spawner&r contain the &apure essence&r of one specific &7creature&r. "
 	]
+	quest.375B2C2D89889153.quest_subtitle: "Complete the quest chapter."
+	quest.375B2C2D89889153.title: "&ePNC"
 	quest.378A3A640EF06FE5.quest_desc: [
 		"&6Generates&r a large &7amount of air&r from &elightning strikes&r. "
 		""
@@ -376,5 +378,6 @@
 		""
 		"Similarly, the &3freezing process&r &espeeds up&r with increased &3cooling&r."
 	]
+	task.00CA3CB10A03DF62.title: "PNC 100%"
 	task.4F4699F9117BC270.title: "Pre-Programmed Drones"
 }

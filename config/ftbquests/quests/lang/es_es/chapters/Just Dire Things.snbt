@@ -419,6 +419,8 @@
 		"{image:justdirethings:item/machine_settings_copier width:100 height:100 align:center}"
 	]
 	quest.5CD12382792FA310.quest_subtitle: "Adivina Qué Hace Esto"
+	quest.5FCE0573AA70913A.quest_subtitle: "Completa el capítulo de misiones."
+	quest.5FCE0573AA70913A.title: "&4Just Dire Things"
 	quest.6201E6DF709C29D0.quest_desc: [
 		"La &barmadura de ferricore&r es tan fuerte y duradera como la &barmadura de hierro&r."
 		""

@@ -58,6 +58,8 @@
 	quest.3DC47060EEAB8975.quest_desc: ["The &bReformation Array&r is a set of machines that are able to effectively &6produce endless amounts&r of a given &bSulfur&r, using other kinds of &bSulfur&r of the given &atier&r and &atype&r."]
 	quest.3DC47060EEAB8975.quest_subtitle: "Magnum Opus"
 	quest.3DC47060EEAB8975.title: "Reformation Array"
+	quest.3E9D2DA07E8617EA.quest_subtitle: "Complete the quest chapter."
+	quest.3E9D2DA07E8617EA.title: "&6Theurgy"
 	quest.45013F74F5B4A93E.quest_desc: ["This Rod can locate &9Rare&r materials."]
 	quest.4E6BB4279E8E793A.quest_desc: ["&8Abundant&r resources tend to be everywhere and in great quantities."]
 	quest.4E6BB4279E8E793A.title: "Abundant Sulfurs"

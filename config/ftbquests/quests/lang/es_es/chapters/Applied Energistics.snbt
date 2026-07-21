@@ -5,6 +5,8 @@
 	quest.003C38C78609709B.quest_desc: ["Fabricado en el &bInscriptor&f, el &bPrensa de Acumulación&f se usa con &bLingotes de Piedra del Cielo&f para producir &bCircuitos de Acumulación&f."]
 	quest.011E9553CDCAE218.quest_desc: ["¿Cuadruplicando esa capacidad de almacenamiento, eh?"]
 	quest.011E9553CDCAE218.title: "Componente de Almacenamiento 4k"
+	quest.02AE5771A57BC6BE.quest_subtitle: "Completa el capítulo de misiones."
+	quest.02AE5771A57BC6BE.title: "&3Applied Energistics"
 	quest.0547229FF5334CF5.quest_desc: ["La &bInterfaz&f actúa como un cofre, puedes &aestablecer un ítem o fluido&f dentro de la &bInterfaz&f y extraerá ese ítem de la &5red&f para mantener el stock."]
 	quest.05B2AA73EAEDCCF4.quest_desc: [
 		"Estos &bBuses de Exportación&r tienen funcionalidad más avanzada en comparación con el &bBus de Exportación&r regular."

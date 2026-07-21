@@ -5,6 +5,8 @@
 	quest.003C38C78609709B.quest_desc: ["Crafted in the &bInscriber&f, the &bAccumulation Press&f is used with &bSky Stone Ingots&f to produce &bAccumulation Circuits&f."]
 	quest.011E9553CDCAE218.quest_desc: ["Quadrupling that storage capacity are we?"]
 	quest.011E9553CDCAE218.title: "4k Storage Component"
+	quest.02AE5771A57BC6BE.quest_subtitle: "Complete the quest chapter."
+	quest.02AE5771A57BC6BE.title: "&3Applied Energistics"
 	quest.0547229FF5334CF5.quest_desc: ["The &bInterface&f acts like a chest, you can &aset an item or fluid &finside the &bInterface&f and it will pull that item from the&5 network &fto keep stock."]
 	quest.05B2AA73EAEDCCF4.quest_desc: [
 		"These &bExport Buses&r have more advanced functionality compared to the regular &bExport Bus&r."

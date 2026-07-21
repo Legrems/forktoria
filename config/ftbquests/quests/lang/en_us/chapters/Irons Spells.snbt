@@ -7,6 +7,8 @@
 	quest.0D8988AF02D890EA.title: "The Walking Dead"
 	quest.0ED5CB1120D1BD6E.quest_desc: ["Found while exploring, the Scrolls are found all around the world, but if your not careful and choose to use the Scroll it will only have one use."]
 	quest.0ED5CB1120D1BD6E.title: "Scroll"
+	quest.1F0B8A0EBCBA4399.quest_subtitle: "Complete the quest chapter."
+	quest.1F0B8A0EBCBA4399.title: "&bIron's Spells 'n Spellbooks"
 	quest.2085CB41244C2783.quest_desc: ["Whilst in the Nether, you must fight your way to the Hogs, and obtain Hogskin."]
 	quest.28724CA9F837F710.quest_desc: ["Amythyst Resonance Charm - when worn this charm will grant you a 15% mana regen boost."]
 	quest.2ACF8F5EFD3C4AF7.title: "Boots"
@@ -83,6 +85,7 @@
 	task.1ACF33BDD92D15DA.title: "KILL the Pope"
 	task.1B5D407F2729F56F.title: "The DEAD King"
 	task.1F5A29E07CD58234.title: "Hats"
+	task.256831387C82AA19.title: "Iron's Spells 'n Spellbooks"
 	task.4F7787C0557CF5CC.title: "Apo The Carist"
 	task.54E5D81FEE18AF83.title: "Pyromancer"
 	task.65B2D0E35B083E82.title: "Survival of the Fittest"

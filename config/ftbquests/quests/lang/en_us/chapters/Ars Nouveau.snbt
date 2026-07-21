@@ -1302,5 +1302,7 @@
 	]
 	quest.7B95981B60CD11BE.quest_subtitle: "Example Spell"
 	quest.7B95981B60CD11BE.title: "Enchanter's Sword"
+	quest.7ED9955750255A69.quest_subtitle: "Complete the quest chapter."
+	quest.7ED9955750255A69.title: "&dArs Nouveau"
 	task.02D1703C79A7F3EF.title: "Any #c:logs/archwood"
 }

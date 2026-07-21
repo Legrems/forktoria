@@ -214,6 +214,7 @@
 	]
 	quests: [
 		{
+			dependencies: ["00FEEABBE8B3C94C"]
 			icon: {
 				components: {
 					"sophisticatedstorage:wood_type": "spruce"

@@ -187,6 +187,8 @@
 		""
 		"Los &bNúcleos&r de &bGeneradores Vanilla&r contienen &aesencia pura&r de un &7mob&r específico."
 	]
+	quest.375B2C2D89889153.quest_subtitle: "Completa el capítulo de misiones."
+	quest.375B2C2D89889153.title: "&ePNC"
 	quest.378A3A640EF06FE5.quest_desc: [
 		"&6Genera&r una gran &7cantidad de aire&r a partir de &erayos&r. "
 		""
@@ -374,5 +376,6 @@
 		""
 		"De manera similar, el &3proceso de congelación&r se &eacelera&r con mayor &3enfriamiento&r."
 	]
+	task.00CA3CB10A03DF62.title: "PNC 100%"
 	task.4F4699F9117BC270.title: "Drones Preprogramados"
 }

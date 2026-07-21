@@ -58,6 +58,8 @@
 	quest.3DC47060EEAB8975.quest_desc: ["El &bArreglo de Reformación&r es un conjunto de máquinas que pueden &6producir cantidades infinitas&r de un &bAzufre&r dado, usando otros tipos de &bAzufre&r del mismo &anivel&r y &atipo&r."]
 	quest.3DC47060EEAB8975.quest_subtitle: "Magnum Opus"
 	quest.3DC47060EEAB8975.title: "Arreglo de Reformación"
+	quest.3E9D2DA07E8617EA.quest_subtitle: "Completa el capítulo de la misión."
+	quest.3E9D2DA07E8617EA.title: "&6Teurgia"
 	quest.45013F74F5B4A93E.quest_desc: ["Esta Vara puede localizar materiales &9Raros&r."]
 	quest.4E6BB4279E8E793A.quest_desc: ["Los recursos &8Abundantes&r suelen estar en todas partes y en grandes cantidades."]
 	quest.4E6BB4279E8E793A.title: "Azufres Abundantes"

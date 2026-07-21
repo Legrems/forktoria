@@ -1301,5 +1301,7 @@
 	]
 	quest.7B95981B60CD11BE.quest_subtitle: "Hechizo de Ejemplo"
 	quest.7B95981B60CD11BE.title: "Espada del Encantador"
+	quest.7ED9955750255A69.quest_subtitle: "Completa el capítulo de misiones."
+	quest.7ED9955750255A69.title: "&dArs Nouveau"
 	task.02D1703C79A7F3EF.title: "Cualquier #c:logs/archwood"
 }

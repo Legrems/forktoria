@@ -32,6 +32,8 @@
 	quest.15325B16AFE33D5C.quest_desc: ["Necesitarás &bSebo&r para hacer velas ocultistas adecuadas. &6Matar animales más grandes&r con cualquier &bcuchillo&r te dará algo."]
 	quest.15325B16AFE33D5C.quest_subtitle: "Herramientas del Oficio"
 	quest.15325B16AFE33D5C.title: "Cuchillos"
+	quest.157239360F696AF7.quest_subtitle: "Completa el capítulo de la misión."
+	quest.157239360F696AF7.title: "&5Ocultismo"
 	quest.168AB4DADB1CA2D9.quest_desc: [
 		"Toda la &bTiza&r se craftea &6impura&r, y puede &6purificarse&r en &5Fuego Espiritual&r para volverse usable."
 		""

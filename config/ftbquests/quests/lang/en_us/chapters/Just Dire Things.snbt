@@ -419,6 +419,8 @@
 		"{image:justdirethings:item/machine_settings_copier width:100 height:100 align:center}"
 	]
 	quest.5CD12382792FA310.quest_subtitle: "Guess What This Does"
+	quest.5FCE0573AA70913A.quest_subtitle: "Complete the quest chapter."
+	quest.5FCE0573AA70913A.title: "&4Just Dire Things"
 	quest.6201E6DF709C29D0.quest_desc: [
 		"  &bFerricore armor&r is as strong and durable as &biron armor&r."
 		""
