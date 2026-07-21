@@ -13,8 +13,8 @@
 			image: "ftbquests:textures/shapes/square/outline.png"
 			rotation: 0.0d
 			width: 15.4d
-			x: 7.100000000000001d
-			y: -1.9000000000000004d
+			x: 8.650000000000002d
+			y: -3.0d
 		}
 		{
 			height: 1.0d
@@ -53,8 +53,8 @@
 			image: "ftblibrary:textures/faces/minecraft/ender_dragon.png"
 			rotation: 0.0d
 			width: 5.0d
-			x: 11.25d
-			y: 1.15d
+			x: 14.1d
+			y: -2.75d
 		}
 		{
 			click: "#3635F4608F1ED244"
@@ -159,13 +159,13 @@
 			y: 0.8d
 		}
 		{
-			click: "#0731FA8830F28280"
+			click: "#3BF5B8DE7A1CC4D7"
 			height: 2.0d
 			image: "ftbquests:textures/apothic/apotheosis_gear.png"
 			rotation: 0.0d
 			width: 7.0d
-			x: 8.7d
-			y: -4.45d
+			x: 6.2d
+			y: -5.1d
 		}
 		{
 			height: 2.0d
@@ -174,6 +174,23 @@
 			width: 4.0d
 			x: 3.8d
 			y: 7.35d
+		}
+		{
+			click: "#1FAFDB20F504688E"
+			height: 2.0d
+			image: "ftbquests:textures/apothic/logo.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 4.75d
+			y: -2.9d
+		}
+		{
+			height: 3.0d
+			image: "emi_loot:textures/gui/wither.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 21.0d
+			y: 4.55d
 		}
 	]
 	order_index: 1
@@ -190,8 +207,8 @@
 			linked_quest: "3BF5B8DE7A1CC4D7"
 			shape: "diamond"
 			size: 2.0d
-			x: 8.6d
-			y: -2.8d
+			x: 9.25d
+			y: -3.8999999999999995d
 		}
 		{
 			id: "1B8830711C7DD27D"
@@ -200,6 +217,14 @@
 			size: 2.0d
 			x: 6.1d
 			y: 2.0d
+		}
+		{
+			id: "2D61E52B203D26D8"
+			linked_quest: "1FAFDB20F504688E"
+			shape: "diamond"
+			size: 2.0d
+			x: 8.1d
+			y: -2.0d
 		}
 	]
 	quests: [
