@@ -193,6 +193,24 @@
 			x: 63.7d
 			y: 7.0d
 		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/mek/mek_title_upgrades.png"
+			order: 100
+			rotation: 0.0d
+			width: 6.0d
+			x: 3.65d
+			y: -6.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/mek/mek_title_matrix.png"
+			order: 100
+			rotation: 0.0d
+			width: 6.0d
+			x: 37.45d
+			y: 5.6d
+		}
 	]
 	order_index: 2
 	quest_links: [ ]
@@ -885,10 +903,7 @@
 			y: 2.92d
 		}
 		{
-			dependencies: [
-				"45E16D69D7099581"
-				"051E0C85E7B71CE0"
-			]
+			dependencies: ["45E16D69D7099581"]
 			id: "3F6174E82DDC48C3"
 			rewards: [{
 				id: "3E9A3514FF4A8242"

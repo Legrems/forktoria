@@ -118,12 +118,12 @@
 		}
 		{
 			click: "#01B56BD678E7745B"
-			height: 1.0d
+			height: 2.0d
 			image: "powah:block/nitro_crystal_block"
-			rotation: 0.0d
-			width: 1.0d
-			x: 6.15d
-			y: 9.95d
+			rotation: 45.0d
+			width: 2.0d
+			x: 6.1d
+			y: 10.55d
 		}
 		{
 			height: 5.0d
@@ -140,7 +140,7 @@
 			rotation: 0.0d
 			width: 2.0d
 			x: 6.1d
-			y: 0.15d
+			y: -0.35d
 		}
 		{
 			height: 3.0d
@@ -167,17 +167,18 @@
 			x: 8.7d
 			y: -4.45d
 		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/mek/mek_title_energy.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 3.8d
+			y: 7.35d
+		}
 	]
 	order_index: 1
 	progression_mode: "flexible"
 	quest_links: [
-		{
-			id: "7D5152FC0499ED03"
-			linked_quest: "3F6174E82DDC48C3"
-			shape: "gear"
-			x: 6.100000000000001d
-			y: 1.9658163265306026d
-		}
 		{
 			id: "75B447085E880EFA"
 			linked_quest: "56C5ECD3430B6A55"
@@ -191,6 +192,14 @@
 			size: 2.0d
 			x: 8.6d
 			y: -2.8d
+		}
+		{
+			id: "1B8830711C7DD27D"
+			linked_quest: "4EB96A7E9F529D80"
+			shape: "gear"
+			size: 2.0d
+			x: 6.1d
+			y: 2.0d
 		}
 	]
 	quests: [
@@ -1075,6 +1084,11 @@
 		{
 			dependencies: ["61C49BC2B384FB80"]
 			id: "758A7AA148B6670C"
+			rewards: [{
+				id: "2359D53593CA84CC"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "78FDC0FBAC516AA6"
@@ -1104,6 +1118,14 @@
 			]
 			hide_dependency_lines: true
 			id: "3890B5CEFEC590FC"
+			rewards: [{
+				id: "658EC539B60DE9B1"
+				item: {
+					count: 1
+					id: "ars_nouveau:ritual_flight"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "31406BD20861E694"
 				item: { count: 1, id: "ars_nouveau:ritual_flight" }
@@ -1119,6 +1141,14 @@
 			]
 			hide_dependency_lines: true
 			id: "32480B559F7D38B4"
+			rewards: [{
+				id: "21CE2629B85C550F"
+				item: {
+					count: 1
+					id: "ars_nouveau:thread_gliding"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4666861D54EF1CD2"
 				item: { count: 1, id: "ars_nouveau:thread_gliding" }
@@ -1150,6 +1180,15 @@
 			]
 			hide_dependency_lines: true
 			id: "1E16FF08D692CF8C"
+			rewards: [{
+				count: 2
+				id: "0358826BAD97AE2A"
+				item: {
+					count: 1
+					id: "cataclysm:ignitium_ingot"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "06626015476614C0"
 				item: { count: 1, id: "cataclysm:ignitium_elytra_chestplate" }
