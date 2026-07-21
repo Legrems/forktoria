@@ -211,6 +211,24 @@
 			x: 37.45d
 			y: 5.6d
 		}
+		{
+			height: 5.0d
+			image: "ftbquests:textures/mek/mek_fusion5.png"
+			order: 100
+			rotation: 0.0d
+			width: 5.0d
+			x: 51.5d
+			y: -5.35d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/mek/mek_title_fusion.png"
+			order: 100
+			rotation: 0.0d
+			width: 7.0d
+			x: 51.3d
+			y: -2.45d
+		}
 	]
 	order_index: 2
 	quest_links: [ ]
