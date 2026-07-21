@@ -885,7 +885,10 @@
 			y: 2.92d
 		}
 		{
-			dependencies: ["45E16D69D7099581"]
+			dependencies: [
+				"45E16D69D7099581"
+				"051E0C85E7B71CE0"
+			]
 			id: "3F6174E82DDC48C3"
 			rewards: [{
 				id: "3E9A3514FF4A8242"
@@ -1125,7 +1128,10 @@
 			y: 1.46d
 		}
 		{
-			dependencies: ["1D482F0D9AF8D17E"]
+			dependencies: [
+				"1D482F0D9AF8D17E"
+				"758A7AA148B6670C"
+			]
 			id: "56C5ECD3430B6A55"
 			tasks: [{
 				id: "6062D34004392C3A"

@@ -360,7 +360,10 @@
 			y: -5.05d
 		}
 		{
-			dependencies: ["294AEFB22AA5F440"]
+			dependencies: [
+				"294AEFB22AA5F440"
+				"5E799B92358A8732"
+			]
 			id: "146C06D66ADC11E4"
 			rewards: [{
 				count: 2
@@ -556,7 +559,10 @@
 			y: -3.75d
 		}
 		{
-			dependencies: ["4C75B21628DC5FBA"]
+			dependencies: [
+				"4C75B21628DC5FBA"
+				"5E799B92358A8732"
+			]
 			id: "5C548FAA6E2B387A"
 			rewards: [{
 				count: 2
