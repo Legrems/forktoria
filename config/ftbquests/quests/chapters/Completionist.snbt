@@ -144,14 +144,6 @@
 			y: 4.625d
 		}
 		{
-			id: "31257FCE0195A754"
-			linked_quest: "739D2E03341174B1"
-			shape: "none"
-			size: 2.0d
-			x: -13.75d
-			y: 8.125d
-		}
-		{
 			id: "0525FACEEF88972A"
 			linked_quest: "1F0B8A0EBCBA4399"
 			shape: "none"
@@ -183,6 +175,14 @@
 			x: -9.25d
 			y: 8.125d
 		}
+		{
+			id: "57D2CBE497AB00E7"
+			linked_quest: "51F2BFD605D0E0D9"
+			shape: "none"
+			size: 2.0d
+			x: -13.75d
+			y: 8.125d
+		}
 	]
 	quests: [{
 		dependencies: [
@@ -194,12 +194,12 @@
 			"157239360F696AF7"
 			"02AE5771A57BC6BE"
 			"15D18F5637F6382E"
-			"739D2E03341174B1"
 			"375B2C2D89889153"
 			"1F0B8A0EBCBA4399"
 			"7A79DC2CE5CC9DEE"
 			"65AA8B8D22954941"
 			"678A65A6A3461CFC"
+      "51F2BFD605D0E0D9"
 		]
 		hide_dependency_lines: true
 		hide_dependent_lines: true

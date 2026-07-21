@@ -305,7 +305,7 @@
 			y: 8.65d
 		}
 	]
-	order_index: 5
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
@@ -1840,27 +1840,99 @@
 			y: -3.5999999999999996d
 		}
 		{
-			id: "5FD6A738754F6013"
-			invisible: true
-			optional: true
-			rewards: [{
-				id: "69C9634F74254088"
-				type: "xp"
-				xp: 100
-			}]
-			shape: "circle"
-			tasks: [
-				{
-					id: "376652638B9221C9"
-					type: "checkmark"
-				}
-				{
-					id: "72E89066290E3040"
-					type: "checkmark"
-				}
+			dependencies: [
+				"2AD78E22988A92D3"
+				"3E0643EA9183CDAE"
+				"2607F3DC07049785"
+				"16255FB20F35A9D9"
+				"29448D08C8777425"
+				"3E8BA5E075ABD136"
+				"6FBE5B5D5027B32C"
+				"5F5E43B3F51CAE9E"
+				"73B73870B29DFAD9"
+				"72D6265E35814927"
+				"12449D23295CF9ED"
+				"0E716B90E60C486B"
+				"395668FBCB6537AF"
+				"27E951F4F4F6F847"
+				"70C7D92844089DEB"
+				"3446803FB59D8875"
+				"0A1D4228271DECA3"
+				"221C9EDA651144BA"
+				"7503823ACDDB0491"
+				"145E7D1A88B83DDD"
+				"3B3BD39BA02DCA13"
+				"3525D5DCC3A534D9"
+				"6A452BFC8A967C39"
+				"62622137648A4F56"
+				"161A90E134592D0E"
+				"11C5F17C6BB1237B"
+				"3705D303CF423804"
+				"321F16645640C462"
+				"5DE7C4FD5FA29236"
+				"1E2A9446594638E2"
+				"589F1D502F680075"
+				"436E4E3515BCCDE9"
+				"4933CF4675E77D50"
+				"623796B1D7981E59"
+				"1E40ACF3E69A4100"
+				"5EB7CE3A1DCD3E9B"
+				"7188DC06A28AE30E"
+				"789AF6D0A6321945"
+				"3E1A3BC8642390B3"
+				"427014BDE06DE631"
+				"73FC51144FC2DA52"
+				"50A32AC6EDBC5854"
+				"7F2D696AC9F4C4E4"
+				"010607466D565B53"
+				"748A01B5607C475B"
+				"2215FB0777D7029D"
+				"4D3379D38237F830"
+				"3EC8A0B89788D079"
+				"74B352457BF1541B"
+				"4A7AEBEB87CEC274"
+				"19B393433FB0C62F"
+				"5040B3D29F238BC0"
+				"122E6E7CABCB17E7"
+				"21BEE9867796933A"
+				"3BD73FEAE853D350"
+				"677A701E06422CF3"
+				"7C3F65B5DAC7E57B"
+				"6B40AF49F505A551"
+				"18DB8C875F2331B2"
+				"60CECAAE2D43EC6E"
+				"40AB457E37919ABE"
+				"5EB87CE5F6DEFAAA"
+				"54822638CC243004"
 			]
-			x: 16.65d
-			y: -0.34999999999999964d
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"trofers:trophy": "trofers:relics"
+				}
+				id: "trofers:medium_pillar"
+			}
+			icon_scale: 1.5d
+			id: "51F2BFD605D0E0D9"
+			rewards: [{
+				id: "61D0231B1F1CE5AC"
+				item: {
+					components: {
+						"trofers:trophy": "trofers:relics"
+					}
+					count: 1
+					id: "trofers:medium_pillar"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "652207A525CFE23D"
+				type: "checkmark"
+			}]
+			x: 8.25d
+			y: -8.375d
 		}
 	]
 }
