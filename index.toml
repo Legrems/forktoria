@@ -2398,7 +2398,7 @@ hash = "55e2d8a3668335828f0fd1e9be6f5520126533504df83e3980b23360978f3972"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "957825d1be4e8a380c7e6739319f376f2ffc189ab8803fd81c035f10820e93b7"
+hash = "4e21cf1b0eaf8ea896aab2cb5f4968aa7e400f1d7f660b8c7bbd92ff4d894e82"
 
 [[files]]
 file = "config/beachparty-common.toml"
@@ -3706,7 +3706,7 @@ hash = "273aa1c70694dbd1b9c6f03b2644ffdda8ceba5afe2b4125e35a3294abeaeb41"
 
 [[files]]
 file = "config/fancymenu/customization/craftoria.txt"
-hash = "c2d62b4098ac6e5e9593c2bb88f338f9bbe4d2a59232346b159124483ed9f324"
+hash = "a07c808453121fd9b7750feef5f6939a522dc7c113cdf4ed5e361d8e758b2079"
 
 [[files]]
 file = "config/fancymenu/customization/create_world_screen_layout.txt"
@@ -21038,6 +21038,11 @@ hash = "dc42384932c78a1ee818af8d8535b51ebd836c6d1f13f3171d9bd83985565f04"
 metafile = true
 
 [[files]]
+file = "mods/compass-to-map.pw.toml"
+hash = "ba6c4d919d2ed398cc948e45ad313bee2d1923fbefc9de5f5c33c9e8b36dc73b"
+metafile = true
+
+[[files]]
 file = "mods/construction-sticks.pw.toml"
 hash = "893aad9df7e8e031d36ac74f9129f3cb3ad27f74db3bd4a71d32a6058f933ff6"
 metafile = true
@@ -21528,11 +21533,6 @@ hash = "43287a3c5030a05b370b45ec1ab9a4a8d5c3d43e9c740aae5218f07ffd041fd2"
 metafile = true
 
 [[files]]
-file = "mods/ftbxaerocompat.pw.toml"
-hash = "db5702e18aadc0f4c6a0b1a79e6689aa97e6d5d8979012769709ad287f034434"
-metafile = true
-
-[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "0092f83b6663191fb947110c2b51a5213daea995da831d7de0a769cf4c353cd8"
 metafile = true
@@ -21775,6 +21775,21 @@ metafile = true
 [[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "1350afbe0b8ffcd889f3093b5e1feadb255224a1c887acbcc30a36e50450b351"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "20202d3155a9c99848a2aa34648766d909538346a6f996d284e6fa2e1569e39e"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-web-map.pw.toml"
+hash = "d6d2477b9f65f4493eb767051ee354d7a792762b5ca55955f1ef606d429ceef7"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "57318f6c857622ad6c0be7ce71db512895d06ce9f796c5c5322180f993a26e91"
 metafile = true
 
 [[files]]
@@ -22953,16 +22968,6 @@ hash = "8e960a7f77607e87c81898bfe6649fc051df8e71ff995f05f9a0c2a22b72f55f"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "d6e007f5dfe86aaf2451e403d40211ddd2ac526ceab49a3929bded51b5658e0a"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "c129b31143323e9a97c616a8f67fcd3e9db422fa15ec9b50476131a226c3caf2"
-metafile = true
-
-[[files]]
 file = "mods/xtones-reworked.pw.toml"
 hash = "1132414db9ee9b2e8222ab4322fd25740b69b4c8757b42b77a31b6efa7b88376"
 metafile = true
@@ -23283,4 +23288,4 @@ metafile = true
 
 [[files]]
 file = "version_info.json"
-hash = "2ab1b6472e348c05f4341b3664d862ce214b69aa54c558c63770f2c36265a7ee"
+hash = "5509c52aa7fb3d5f1713ba37897168803a063445a97a0fe1850d77c6827f7a25"
