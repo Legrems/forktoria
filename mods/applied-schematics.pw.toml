@@ -1,0 +1,13 @@
+name = "Applied Schematics"
+filename = "appliedschematics-R0.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "140a5c23618b10b807c875533f279159944ffc16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8248023
+project-id = 1575020

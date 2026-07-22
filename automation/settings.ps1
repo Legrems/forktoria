@@ -20,17 +20,17 @@ $CURSEFORGE_PROJECT_ID = 1039252
 # =====================================================================//
 
 # This is the modpack name as seen in its CurseForge url: https://www.curseforge.com/minecraft/modpacks/[craftoria]
-$MODPACK_NAME = "Craftoria"
+$MODPACK_NAME = "Forktoria"
 
 # Name of the Modpack in the ZIP File
-$CLIENT_NAME = "Craftoria"
+$CLIENT_NAME = "Forktoria"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "1.31.0"
+$MODPACK_VERSION = "1.0.0b1"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "1.30.0"
+$LAST_MODPACK_VERSION = "2.0.0b1"
 
 # Which modloader the modpack uses
 # Use proper capitalization for display (e.g., "NeoForge", "Fabric", "Forge")

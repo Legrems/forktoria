@@ -1212,7 +1212,7 @@ element {
 
 element {
   interactable = true
-  source = Craftoria - 1.31.0%n%Minecraft 1.21.1/NeoForge
+  source = Forktoria - 1.0.0b1%n%Minecraft 1.21.1/NeoForge
   source_mode = direct
   shadow = true
   enable_scrolling = false

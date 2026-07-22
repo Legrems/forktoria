@@ -2398,7 +2398,7 @@ hash = "55e2d8a3668335828f0fd1e9be6f5520126533504df83e3980b23360978f3972"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "35c32029e22ee6792cdae7d569fd6a4e3ecf3b1f526cf1470539dc9d9b607435"
+hash = "957825d1be4e8a380c7e6739319f376f2ffc189ab8803fd81c035f10820e93b7"
 
 [[files]]
 file = "config/beachparty-common.toml"
@@ -3706,7 +3706,7 @@ hash = "273aa1c70694dbd1b9c6f03b2644ffdda8ceba5afe2b4125e35a3294abeaeb41"
 
 [[files]]
 file = "config/fancymenu/customization/craftoria.txt"
-hash = "1f17223c8407ccfaf92d470ea1214b323d11e6f41bf5edd93ebd0d7060769e2f"
+hash = "c2d62b4098ac6e5e9593c2bb88f338f9bbe4d2a59232346b159124483ed9f324"
 
 [[files]]
 file = "config/fancymenu/customization/create_world_screen_layout.txt"
@@ -3938,15 +3938,15 @@ hash = "87288556fef53469d2b27839a0fd5b8b412c3f0ba1b2e362b238aab5f3260423"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Applied Energistics.snbt"
-hash = "7bef764a72cc83c864f50fe080d06e6cf8894115f21724a442140f0931b95555"
+hash = "8bbaa36e3feb754e32ebe0dfdd6ffb3cda19d827b169681a25e74400eb5b2297"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Ars Nouveau.snbt"
-hash = "492c0e2707e235fc54fe1908c92aa2946b547c29235372c1cba10b8e9121a74e"
+hash = "0a36d87b08e9c1c952466604ae52dafa1973aee5482d6f52c5f12de99b585dfe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Completionist.snbt"
-hash = "c8de0376601da12a5bed10fb748a0fa3f820c5c96b269ddb1999c46fbe8e9546"
+hash = "d7615ec3d008a3bf6d3065cf805956391a20aa175b2808d96b42835157fe5bea"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Create.snbt"
@@ -3966,19 +3966,19 @@ hash = "4cba8b415d06d4431492601380278764e376912b7c2253b3239511d6e5d12bab"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Irons Spells.snbt"
-hash = "e49369f956554fd1becd38afd528c1652174d9579080efe5fb92c4c3d8f9b65c"
+hash = "4d2d749a1ecee8a816d285acf3bcce5500f4bada5cb429d809a3958b7d3d7419"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Just Dire Things.snbt"
-hash = "af1ee30d62ee435d0e79070aa671e4a8cddadf5c3558a0acd1d33b484a0a2721"
+hash = "75ca8e45994feb3234db3189b7542b4733a50e47ec9a0c295204beb9801fb303"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Mekanism Ore Processing.snbt"
-hash = "4cf12afe7614c0439f0dcfc7103aeb287b4c72d0daf2c389766088d278f17b71"
+hash = "5aafce7f2dc58eed672af744c5a5d8f7022f9a3dcc382c99c05ec73d54eb4191"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Mekanism.snbt"
-hash = "272916df25725b0bea32c1ec6715306023469ca4baa5115be12ab177f3ae89b1"
+hash = "01c5731ecfbae04dead73600b8a6cd5ed1f5d4cd21c2e14f5dddb440780463f1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Monster Mayhem.snbt"
@@ -3986,39 +3986,43 @@ hash = "6db947da691eda95203bef88c12e87f52be4ae820c6eb7436ded75d06ca520c8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Occultism.snbt"
-hash = "fc41ad33679552abc1356b7b1d530220e5a77f5a87103c4b8f6eda4c69887a2b"
+hash = "d19e4975b5be873b7a6d932a8d9e3838ddaf14ce1bf68a97e2c8b74c6175fa8a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Organized Storage.snbt"
-hash = "197670864cb32a022eb128526cdd84e758033cbeb0d5c0f6decc6b484cdc6558"
+hash = "4a0ff2fa5c44d19641fe58587e945ed81a86bd7216182dced55357b125f06e05"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Personal Storage.snbt"
-hash = "d5adbc51472ec5d71606c343014ea7813b2f7fe665073f77d35955e47a68bb4b"
+hash = "834d77737794f6f63a874d292aa73d453ac5f5424ea78a04fe820c88c076aef9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/PneumaticCraft.snbt"
-hash = "b85ca646823b3ba50ccb48ae2a5507caa456e68d2954f1b64f8d457e58f619f8"
+hash = "0732cc3b69587391643be54c52386753188ec404b502ea3f13ba30cccfedb44b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Powah.snbt"
-hash = "70250c4fc5a8943a4441cfd22a73fd2bd4b2882a21ac2e8c4ad06ea95506a8c3"
+hash = "0bd301aae4579606d1303cabaf59b5c6ee750fde6845376c36c906d22817a6d6"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/Relics and Artifacts.snbt"
-hash = "0d7743ec7091f71551b1813d522feb83fe3242fd6313c44bc5fd582c14ba5798"
+file = "config/ftbquests/quests/chapters/The Vanilla Path.snbt"
+hash = "1502c777af4e31f58ea233be7440f759e130076a41b440293965ac0cb2a95a09"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Theurgy.snbt"
-hash = "b3fac5cff9c580f7efb9ee8c950f9402863222bdaf1233d9d4b4ec54aeb35567"
+hash = "39b86ca028548571297d209aae6d0110218b95b402157d49d2f6dd277fa1676f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/Welcome.snbt"
 hash = "60bf36705fb3405a7d36356b01672ea597a733818bbb086fd22974dd52c9ab15"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/apotheosis_gear.snbt"
+hash = "3906f2ab67df5897e897a5de208c81993fc105e4ed42002034369172239df228"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/bosses.snbt"
-hash = "5edcd5a1491d03c0f75ca7ff0d1e2e69003c6d882cb7c0859601937c3ed1e58e"
+hash = "66ab802c6d8ab489e50a8bcbcfe020f09e0f5ad8b1ee8106bf3e5af0c3097d49"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/core.txt"
@@ -4026,11 +4030,11 @@ hash = "3d013efb8fe1e7c8e297050a3c33fb11654600c15615f992ec5fac08c59103f3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/endgame.snbt"
-hash = "fd1e1334002b4bce5111b72cade23fa98ac18e241508b3df9fa53c81027d6f48"
+hash = "c6d5e12c522aa88209df46b69aa86c492f4b10755dc4e17e4394a3232534a098"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/fishing.snbt"
-hash = "f8a982a5e4b5d48b2f88fc30def7ff3b27e9832acde20922cf995402b4f44cce"
+hash = "947c78e1fb3567fcd1d934606643bf0c6e8b5c9a633add2ca002ed22bdc86182"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/flattened_mi1b.txt"
@@ -4041,47 +4045,79 @@ file = "config/ftbquests/quests/chapters/frame_and_nightsky.txt"
 hash = "e5f0952e2c5a393bab01094341ee271796ad11a45be0e20f0a33d7f9d08d26e8"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/integrated_dynamics.snbt"
+hash = "54f6c7745ee3b74fc8d931b8a8dbaff5ecf17d31c54ff1e8e0d5f3459d16667e"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/mi_electric_age.snbt"
 hash = "18bb89a404dd82f6a8d9233cdebc05fc67d18d2e680a1d55ebd2362e246bd386"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mi_quantum_age.snbt"
-hash = "15a8cd08ff46ecab463a7417790fe12224100d0a4a229207daff66b54a011d22"
+hash = "11c74325af146c09312a556135afa79c29b1e11a85535485734e7c8d3fdca83c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mi_steam_age.snbt"
 hash = "31ce69216806d51aed006778ad28a3e5f45ad81dfacb9fbc13af6243c10a4f94"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/relics.snbt"
+hash = "3e6488aad6e4f5da90bdcc3053ed7b1b9dde7a5310450b7b28238dbdd7fd0734"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/replication.snbt"
-hash = "67f6d38f616a59f59c86ed3b72a4be54debbccdc44a4e3889d68121b545529db"
+hash = "ca2edc29694ddf9ecbbd0a10252251230ad2be8c82f3f99e76a7a4b8687c3931"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/wip.snbt"
-hash = "6689792dff8a047a250a5a0679b586b93e3208c7060ec9fa04a0a096fe4f543c"
+hash = "d5a30e3c7f7cf7e2b1301a158c9ddb3c8e5343991ed45ea25ed56df0883367f5"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "d222e0ed25c67eef79675536a83da0fccb240023f6a447901c64c6b52c451b4e"
 
 [[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "dca261f3f0a6e62886c7f149cdb601e507957154656b92adf67a1c89570d6d4b"
+
+[[files]]
 file = "config/ftbquests/quests/lang/en_us/chapter.snbt"
-hash = "f38be0c30f7fbdf020273e26eb8164fd76fe58aec57629e231e6eb005072e1a8"
+hash = "31e7f20ed5a80f47cfe98e96281c862ba04dcec0704e50b00f4b03b1c8027c29"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapter.snbt_merged"
+hash = "1afa735c60b8b2f040d08e3c7a01706167d5424831f6b675395f29506146b33f"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapter_group.snbt"
 hash = "3fbdd2a8040149eb087ae6a86aec772d7413d817bef0e8e8c1eec1ca991bb682"
 
 [[files]]
+file = "config/ftbquests/quests/lang/en_us/chapter_group.snbt_merged"
+hash = "3fbdd2a8040149eb087ae6a86aec772d7413d817bef0e8e8c1eec1ca991bb682"
+
+[[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Applied Energistics.snbt"
+hash = "1c91ce2a5cd18746f43d6eb642c0c96d3a211909f767eb23365930c49528e419"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Applied Energistics.snbt_merged"
 hash = "6e16d15fbf3f9d138845f530f8aa987255b0c0dbc2637f477f98e140ff1e3b41"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Ars Nouveau.snbt"
+hash = "67fd070c3c93c12d3946f880c3278485efd333b383777bbc19b9f3359c9b3cfe"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Ars Nouveau.snbt_merged"
 hash = "d09c8d498ed210ff9f58c636cf2050a6e84cd0f13c9c785760c9c7703d643c2c"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Completionist.snbt"
+hash = "7a968425d0c564c751bae99a025694961e87edb1cab0ca0466daa2c2f37bfb68"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Completionist.snbt_merged"
 hash = "31ba481499d1635e748ed26126f290ab585782b2ca53711d0f31cf940e581e57"
 
 [[files]]
@@ -4089,7 +4125,15 @@ file = "config/ftbquests/quests/lang/en_us/chapters/Create.snbt"
 hash = "c24b0c21d104bf97d41394d3b1071252d06db3a5c2ee0c5fc8ee253736aca0d1"
 
 [[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Create.snbt_merged"
+hash = "c24b0c21d104bf97d41394d3b1071252d06db3a5c2ee0c5fc8ee253736aca0d1"
+
+[[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Gadgets.snbt"
+hash = "6c6ef5550c40f249051d882369688aadc724bab393dc5b571b9bc639a7f0efd3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Gadgets.snbt_merged"
 hash = "6c6ef5550c40f249051d882369688aadc724bab393dc5b571b9bc639a7f0efd3"
 
 [[files]]
@@ -4097,15 +4141,31 @@ file = "config/ftbquests/quests/lang/en_us/chapters/Gardening.snbt"
 hash = "88d96d3e1ba168bd9c0dcc9073423432cd0ca56114530089b0d5315cbaf69758"
 
 [[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Gardening.snbt_merged"
+hash = "88d96d3e1ba168bd9c0dcc9073423432cd0ca56114530089b0d5315cbaf69758"
+
+[[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Immersive Aircraft.snbt"
 hash = "068786c5e57b6a69aff8b55aca22bfe3f5ef40cafc233be0a13d83c678378993"
 
 [[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Immersive Aircraft.snbt_merged"
+hash = "068786c5e57b6a69aff8b55aca22bfe3f5ef40cafc233be0a13d83c678378993"
+
+[[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Irons Spells.snbt"
+hash = "7bb665a315ab1ec93dd90d3efb174fee9722bfc0a8880f019bc02cf96227cc31"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Irons Spells.snbt_merged"
 hash = "55ceb3d5bfd43f0e9676526806609630ba117e195aa2028fee9efebf3fa28f14"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Just Dire Things.snbt"
+hash = "d9aaeb0ad89e7c2b67a2c2b17c471782de412594abd1204754f858ea256c5332"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Just Dire Things.snbt_merged"
 hash = "1ff0c6a6bc4737fd618443924292a5023d09159b21463bf617bda35f8d344655"
 
 [[files]]
@@ -4113,7 +4173,19 @@ file = "config/ftbquests/quests/lang/en_us/chapters/Mekanism Ore Processing.snbt
 hash = "98291f2a786d34a8e194f03637a123d0a07e75aaf5fe8d8b247a7c78f72502a5"
 
 [[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Mekanism Ore Processing.snbt_merged"
+hash = "98291f2a786d34a8e194f03637a123d0a07e75aaf5fe8d8b247a7c78f72502a5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Mekanism.snbt"
+hash = "e8662907f6ab60158505080f1e697a5e2ccfb7204c88f0ee015cbc2348831964"
+
+[[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Modern Industrialization.snbt"
+hash = "e14860a43314f8ff0814ab92844423ffa8b89cc2a693b367140b8678c8335e3d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Modern Industrialization.snbt_merged"
 hash = "e14860a43314f8ff0814ab92844423ffa8b89cc2a693b367140b8678c8335e3d"
 
 [[files]]
@@ -4121,11 +4193,23 @@ file = "config/ftbquests/quests/lang/en_us/chapters/Monster Mayhem.snbt"
 hash = "c966df8182a72f8d2c649d164209785194c0329ec7aa83a84ed9edfc52f591f4"
 
 [[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Monster Mayhem.snbt_merged"
+hash = "c966df8182a72f8d2c649d164209785194c0329ec7aa83a84ed9edfc52f591f4"
+
+[[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Occultism.snbt"
+hash = "2b190bfcfdfd38fd38be5e0860bf0d5e9f14ce23a5708342c4b15b48b4196aa3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Occultism.snbt_merged"
 hash = "01a5411a0bb9e5b4e06d8bae16ab6f43e4e1146a55d7da8fb394078dcc079693"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Organized Storage.snbt"
+hash = "005704f3b53f02395fc661cd1ae28dd3121ab808ec0beccdf10b38dd0c259854"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Organized Storage.snbt_merged"
 hash = "1401b08c430cc7da32c4801c8985a13a18508e3953a16b8bb1f47a95b92e3a4a"
 
 [[files]]
@@ -4133,15 +4217,39 @@ file = "config/ftbquests/quests/lang/en_us/chapters/Personal Storage.snbt"
 hash = "8f4d30d219f6ff37ca30cca329162d1776005c2307baaef170f1de2b7a22265a"
 
 [[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Personal Storage.snbt_merged"
+hash = "8f4d30d219f6ff37ca30cca329162d1776005c2307baaef170f1de2b7a22265a"
+
+[[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/PneumaticCraft.snbt"
+hash = "6e740522d42c13ae892605f1f257cb9e8c5e52e84c2ba467611c9fedbf6a76b1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/PneumaticCraft.snbt_merged"
 hash = "ed881dcba25464756803567134233c46770ab41619bd11fcf3c2dd1fec44147a"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Powah.snbt"
+hash = "a7420a0e6c15580abcec2f7c91e8c97bdffa676a4fd9e47aa5e130e52012cadd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Powah.snbt_merged"
 hash = "2aee76bf6466a86bf2c382a41633558e96e509ef130fa6161fa8b72c4ab08edb"
 
 [[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/The Vanilla Path.snbt"
+hash = "b881ea01d3e0b508d84ddf1e2e44459f927f7276a07e3f7c9031c69f762d0d6e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/The Vanilla Path.snbt_merged"
+hash = "b2f2a1b370a9984f7fa95414dfc54b510b11519d8d8f530b3c9296f761d0ddda"
+
+[[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Theurgy.snbt"
+hash = "b87822aedba1f4844815463de1ada1202556f2c3f981a3f55ab196804df306b6"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Theurgy.snbt_merged"
 hash = "6a21700156d8c98d49cc8e0bb51d29f74543f0aaf20fb6c22eb3002d6db50e65"
 
 [[files]]
@@ -4149,7 +4257,23 @@ file = "config/ftbquests/quests/lang/en_us/chapters/Welcome.snbt"
 hash = "2c5dc3f5b78bfaea108f9b1bec50a2e3a856ba85d2fbafe8085ebf89987d5dba"
 
 [[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Welcome.snbt_merged"
+hash = "2c5dc3f5b78bfaea108f9b1bec50a2e3a856ba85d2fbafe8085ebf89987d5dba"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/apotheosis_gear.snbt"
+hash = "02fa18f10f9f44d038db9ac5bed5e146a9a6c469587d2708eea660ac427e57c5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/apotheosis_gear.snbt_merged"
+hash = "2d9e7da99cfe1bbfb8f140f62a02fe13173e32991b032e5618a404c6468f6610"
+
+[[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/bosses.snbt"
+hash = "b59c9c9219f397e43deb70eb8ea3277fbc34509e562c68d3934e09b2925af1bf"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/bosses.snbt_merged"
 hash = "55dde94fe939e3ac64033c007893e79b2a5c07bf75509be7bd6a2fb547bd724f"
 
 [[files]]
@@ -4157,7 +4281,47 @@ file = "config/ftbquests/quests/lang/en_us/chapters/endgame.snbt"
 hash = "cbd7e8465d8db3da2bf65d2ccb6732cb87cd9349cac8a021ee5399631dcb057b"
 
 [[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/endgame.snbt_merged"
+hash = "cbd7e8465d8db3da2bf65d2ccb6732cb87cd9349cac8a021ee5399631dcb057b"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/fishing.snbt"
+hash = "64cd5c9ce8a2a5184334a88a853f36e4877c8906a1ed385a2306a03bc6433219"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/integrated_dynamics.snbt"
+hash = "9218b15b3655512bd50ba8ec5e030a206763d236298e03a2aeabf1d8127d5668"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/integrated_dynamics.snbt_merged"
+hash = "68ca3c91d8cd5ecb9b70741195c21b513caac68efa7bae8e8b15a1f28470b100"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/mi_electric_age.snbt"
+hash = "000618e6ef7338b2d8b957729c7aafe6efd1a63e6d0293c4401c23adf3f21491"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/mi_quantum_age.snbt"
+hash = "3afb8eb3590a77c7718d72f063f699d9efaf55202eba4e63fef73f0ccfc166d5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/mi_steam_age.snbt"
+hash = "db4e5e97d8667aa2dfb5615b475fd62bf3c072b65ffb0c8cca19162f3e14b757"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/relics.snbt"
+hash = "8c717eb235c6105de9371253b91185e45d9991a73d4a1981e9b8d18d20dee18f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/relics.snbt_merged"
+hash = "d000993a974c91c1ec7be77b407da524cf0a9e11381d83fac5561a2a74849842"
+
+[[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/replication.snbt"
+hash = "dcf65d98b4bff6b3a86cc4297ef911a36eb4b971c9a09a2d4b335810fd2a1cf6"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/replication.snbt_merged"
 hash = "8e6e110601eb0e0bb47ac2501f549b2ff0708025d5f332833d4641e1d601d412"
 
 [[files]]
@@ -4165,11 +4329,27 @@ file = "config/ftbquests/quests/lang/en_us/file.snbt"
 hash = "32706693e2e80e231588ff36d8d63ae99bfbe9a23a70477e5b0136d1fe4de407"
 
 [[files]]
+file = "config/ftbquests/quests/lang/en_us/file.snbt_merged"
+hash = "32706693e2e80e231588ff36d8d63ae99bfbe9a23a70477e5b0136d1fe4de407"
+
+[[files]]
 file = "config/ftbquests/quests/lang/en_us/reward_table.snbt"
 hash = "effb530b660e56e64ba846042757f3bd1ad950966a7be4b47f9786092aa20aad"
 
 [[files]]
+file = "config/ftbquests/quests/lang/en_us/reward_table.snbt_merged"
+hash = "effb530b660e56e64ba846042757f3bd1ad950966a7be4b47f9786092aa20aad"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es.snbt"
+hash = "575f24c6c9c3a4bafb7e487abf56581d1bb67deb21335d96250a5df0cc91f7fe"
+
+[[files]]
 file = "config/ftbquests/quests/lang/es_es/chapter.snbt"
+hash = "2622cbe5f13b94c360568bab490c488a446b5a567fbcf498e021615366bbe837"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapter.snbt_merged"
 hash = "2622cbe5f13b94c360568bab490c488a446b5a567fbcf498e021615366bbe837"
 
 [[files]]
@@ -4177,15 +4357,31 @@ file = "config/ftbquests/quests/lang/es_es/chapter_group.snbt"
 hash = "35df666da7ab6f2aee59bd8d09e9b30fe7be0f807392c0509ac6c5eaec66b6fd"
 
 [[files]]
+file = "config/ftbquests/quests/lang/es_es/chapter_group.snbt_merged"
+hash = "35df666da7ab6f2aee59bd8d09e9b30fe7be0f807392c0509ac6c5eaec66b6fd"
+
+[[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/Applied Energistics.snbt"
+hash = "54b79e264eb8507650a92b7ebccb884aee16b63b5dc89c91c3c6b133e2750da4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Applied Energistics.snbt_merged"
 hash = "057bdbad97e6bb30fdbbcfa2524beab99cbc1146dc6cd4816af6065136ae0d71"
 
 [[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/Ars Nouveau.snbt"
+hash = "4f5ade3f824c3bbc22c5ce1ff4d876f5bd506b290d08cc6a5707ecc56ab47032"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Ars Nouveau.snbt_merged"
 hash = "1c72a2d75dc87ad8991848a13a2a58a3fdcf826ba4bd9872faf65ff6fe2d705f"
 
 [[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/Completionist.snbt"
+hash = "fc615d14bb201d31f72e4884a3a2943f724bc377fe5d9c3bb497dbd26068d4de"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Completionist.snbt_merged"
 hash = "93f35b9cc48ab2156146067add86c100259b0e09c4358a35da662ab743c8474d"
 
 [[files]]
@@ -4193,11 +4389,23 @@ file = "config/ftbquests/quests/lang/es_es/chapters/Gadgets.snbt"
 hash = "64f56e565ce6d23b3735e6f39074efd6bbaa467ef4975e7beca6f02c50a0418c"
 
 [[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Gadgets.snbt_merged"
+hash = "64f56e565ce6d23b3735e6f39074efd6bbaa467ef4975e7beca6f02c50a0418c"
+
+[[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/Irons Spells.snbt"
+hash = "fbd366ae442a3e1d204ba47b30b45ac5eec40611f7c64e90ed6f897bc33b1908"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Irons Spells.snbt_merged"
 hash = "afa28fbdb8b7de5f5a038173936a0c5c7adc51df1b1354dc80d7bc7e54079a5a"
 
 [[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/Just Dire Things.snbt"
+hash = "d7b5116a54e12d296f3b9b58bc916dfff8b54b95303e4c7d7560c78ad7c92bb9"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Just Dire Things.snbt_merged"
 hash = "564023d2f6caca027c7ecf183b8ec99944c5fbbb7ce21a1832193f42d4358051"
 
 [[files]]
@@ -4205,7 +4413,19 @@ file = "config/ftbquests/quests/lang/es_es/chapters/Mekanism Ore Processing.snbt
 hash = "98c782aa6351f9da35ea36b684ee5626bab589aaec04e2ee67bdfab6a7a70721"
 
 [[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Mekanism Ore Processing.snbt_merged"
+hash = "98c782aa6351f9da35ea36b684ee5626bab589aaec04e2ee67bdfab6a7a70721"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Mekanism.snbt"
+hash = "134a05bf26f88cf5a692d60920da6d7db0a2b0779bacd35cb752a19728569763"
+
+[[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/Modern Industrialization.snbt"
+hash = "78b4e58cc4b2b5bdbc9bf7e4d1e10d6d8f0bdf863b415764bd61994548605b83"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Modern Industrialization.snbt_merged"
 hash = "78b4e58cc4b2b5bdbc9bf7e4d1e10d6d8f0bdf863b415764bd61994548605b83"
 
 [[files]]
@@ -4213,7 +4433,15 @@ file = "config/ftbquests/quests/lang/es_es/chapters/Monster Mayhem.snbt"
 hash = "34c261d9077dfa2746f9bbe8db99d6642672022affa079de76310c8a6f12f12a"
 
 [[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Monster Mayhem.snbt_merged"
+hash = "34c261d9077dfa2746f9bbe8db99d6642672022affa079de76310c8a6f12f12a"
+
+[[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/Occultism.snbt"
+hash = "9974523a9d2294541b83ae27119ebd8f225c5db6e1d3ee41a81a64c90bdbc3b8"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Occultism.snbt_merged"
 hash = "44aa17310d72406a910a0d2438b70e4a7f5aff887ff9119693747e30f219a426"
 
 [[files]]
@@ -4221,19 +4449,39 @@ file = "config/ftbquests/quests/lang/es_es/chapters/Organized Storage.snbt"
 hash = "b91acba798da3fb3bae106a02acdc0fd985727b7e532335a7934ed05e86435a4"
 
 [[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Organized Storage.snbt_merged"
+hash = "b91acba798da3fb3bae106a02acdc0fd985727b7e532335a7934ed05e86435a4"
+
+[[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/Personal Storage.snbt"
 hash = "62c6b99280cfabd136baa7d8901da376bc8fb32991bb9f74ce31027afab4e029"
 
 [[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Personal Storage.snbt_merged"
+hash = "62c6b99280cfabd136baa7d8901da376bc8fb32991bb9f74ce31027afab4e029"
+
+[[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/PneumaticCraft.snbt"
+hash = "c273ea5bcea056e5ab79ca79f1b7fb2c79e99a13fc55cc71c379ec8c56b48451"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/PneumaticCraft.snbt_merged"
 hash = "59c506d5fb297025aaa1c03ab730e02bbc315ce9423757571b02baacdaf93a2e"
 
 [[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/Powah.snbt"
+hash = "7192329e82d3dfa798057eebea343a500fad56baa661b0e354a31ac5ec7eaea3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Powah.snbt_merged"
 hash = "015310902fbadbe5f41708c6122f962317ccd239043890c3d4a8b8a4f5f2d453"
 
 [[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/Theurgy.snbt"
+hash = "d2be1fff6c354e81bbe7921185741c0e92226d9dac44fbeb43fbe2f88bf6c033"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Theurgy.snbt_merged"
 hash = "0755a7217c8c23868cd2232925c65f3644cb3577b79793860e665dbdb8bf8bd9"
 
 [[files]]
@@ -4241,7 +4489,15 @@ file = "config/ftbquests/quests/lang/es_es/chapters/Welcome.snbt"
 hash = "3856a3d108f9cb6ce0b17353fc2277ff268b5aa32f9204d8bf216b0e9ee63067"
 
 [[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/Welcome.snbt_merged"
+hash = "3856a3d108f9cb6ce0b17353fc2277ff268b5aa32f9204d8bf216b0e9ee63067"
+
+[[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/bosses.snbt"
+hash = "d9d7769697885a8778e412df12e878f8322c45f1bda358571950b6cbf43a4646"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/bosses.snbt_merged"
 hash = "fc3e1e0adb7533a82b9784832cf8e7cb8d57ea342c2e42b974e6ce7c0fb5e074"
 
 [[files]]
@@ -4249,7 +4505,27 @@ file = "config/ftbquests/quests/lang/es_es/chapters/endgame.snbt"
 hash = "74fee200b659785991b7a7fa04a85c118d2cffc37d6252c614ab84ae8e6c458e"
 
 [[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/endgame.snbt_merged"
+hash = "74fee200b659785991b7a7fa04a85c118d2cffc37d6252c614ab84ae8e6c458e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/mi_electric_age.snbt"
+hash = "88c43aaf33b68d4464fb98208abced19bcf4d58e035c14727820863366ee9f1e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/mi_quantum_age.snbt"
+hash = "f41b2da5b138ced78a571c80c0dd3491052b6f19c23b6b8e7f53b5fb12da27de"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/mi_steam_age.snbt"
+hash = "432e7966a7a193b09ed7c5192ab044e779a0f91a82e8f878b7371e6fe0ce2823"
+
+[[files]]
 file = "config/ftbquests/quests/lang/es_es/chapters/replication.snbt"
+hash = "181e978775191aa407adeafc5e81300778a8fe2aa30f90eda03d2e1fa27a061a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/es_es/chapters/replication.snbt_merged"
 hash = "6f081e8d1648444a6bb828bac129a4edcef36d6f805bc76c6828015fc9f10d08"
 
 [[files]]
@@ -4257,20 +4533,52 @@ file = "config/ftbquests/quests/lang/es_es/file.snbt"
 hash = "32706693e2e80e231588ff36d8d63ae99bfbe9a23a70477e5b0136d1fe4de407"
 
 [[files]]
+file = "config/ftbquests/quests/lang/es_es/file.snbt_merged"
+hash = "32706693e2e80e231588ff36d8d63ae99bfbe9a23a70477e5b0136d1fe4de407"
+
+[[files]]
 file = "config/ftbquests/quests/lang/es_es/reward_table.snbt"
 hash = "8a36ff9a950edef5a23eece0934469e79b4209f685a0badce22d7f95b5f9164d"
 
 [[files]]
+file = "config/ftbquests/quests/lang/es_es/reward_table.snbt_merged"
+hash = "8a36ff9a950edef5a23eece0934469e79b4209f685a0badce22d7f95b5f9164d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br.snbt"
+hash = "d6e2a48d4af104c483b2f299dd20a80599217d1b0d024bab3ba01a2c025f545a"
+
+[[files]]
 file = "config/ftbquests/quests/lang/pt_br/chapter_group.snbt"
+hash = "73404a7d1f15ab3c633e8dd3b87ab26c07ca168d53b1c5bc8e35758e32b7fb75"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/chapter_group.snbt_merged"
 hash = "73faa37a7d47d254c642db503af00de45deedaa8896a2cebcda5bc60df8d1c44"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br/file.snbt"
+hash = "32706693e2e80e231588ff36d8d63ae99bfbe9a23a70477e5b0136d1fe4de407"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/file.snbt_merged"
 hash = "8982d8e5f8dd6c38c022dc757c5eaa97ef1553619dedb7c3543c921890488f29"
 
 [[files]]
 file = "config/ftbquests/quests/lang/pt_br/reward_table.snbt"
+hash = "7836b359cc863405f3727f75df76f49cf1ca7cfb61a1a7999934406611f2f5eb"
+
+[[files]]
+file = "config/ftbquests/quests/lang/pt_br/reward_table.snbt_merged"
 hash = "48b0c3491940061a4d0747d4916c1e568eb49dba57d3d5f28913319b1037f6ff"
+
+[[files]]
+file = "config/ftbquests/quests/lang/recovery/en_us_1784667338.snbt"
+hash = "06bb47de65bc327e00ff0b8557a2cda8350c2ae57f3517e15970c34cd8acf300"
+
+[[files]]
+file = "config/ftbquests/quests/lang/recovery/en_us_1784670396.snbt"
+hash = "92a10a4cda7f3e8f766fcfed835ae30f404850afbb88dce20c3694d837db4370"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/0414572B7C36F04F.snbt"
@@ -4282,7 +4590,7 @@ hash = "2d221c8c48cf50d80b6b19c4bcf891db0a022c0c46bc5221c1b15ced00f68244"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/0DF6EBF90213BF49.snbt"
-hash = "33a2a15bad849d6c91e152fd9340bc59228f86168ed7e583aeb7ace56c8534b0"
+hash = "521b488e358e99a48786412046c751e1acfcf1d071b9273548effa9fe9c28037"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/145BAF105E285CD0.snbt"
@@ -4290,15 +4598,15 @@ hash = "458e3588b994497c22aa565c564fa88d7d1cdf6c7b4472eb2bc8626feccbfeed"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/1CD342FEDCDF6159.snbt"
-hash = "99a441792c579b6db83d663fdc4e57cfcc6726afe79323f6d6380a6fe8583fd8"
+hash = "d394631f92a826693e87d6b8f16649f936864ece5aeae081575b646aef45be4a"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/1D192DA13A51FB61.snbt"
-hash = "1361e70d8e34147615900445a29ea62f023f93b5ef608ffc762c289396c7bb7f"
+hash = "964a0bd959051d6779d746de21712cff2130d0d6b956e670ff98c43c5e56b14a"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/1D6F040D6822FC7F.snbt"
-hash = "7351323a9c3dc3c5ac02fd5e2db7adced2a25cde5390cfc8aac4156fbb800ce2"
+hash = "13f27f5bab4f69603d3e0f345924aeb04652a8b17470f28d49fa4ba9a5407383"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/28958DE08ADA052A.snbt"
@@ -4306,39 +4614,47 @@ hash = "225681a2a9be7191d0367cc78305690a2f4b35e1484e31be71dc69043c9db207"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/2C400654E7B41B6A.snbt"
-hash = "8342f79482610362960beb76e824decd562fbe650ae07bc55ab7d96e0c497160"
+hash = "18c76a4483342633d20368babfa7c5414e68553fab9d2c4324f1259b3d55064d"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/303299C956CA9C80.snbt"
-hash = "0a067a1012ba8fcfd857030df03b1fbac5ae6d16451cff38eda0c9eb44517083"
+hash = "1d1445ce99959f64da8508e8d69a30bebb0890190426cfd10889f4a4e1086990"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/3D4D6E8E82099676.snbt"
-hash = "bbd35d9be517ac41dedc65d6caed5382464316fa1590a2a536c9363984c538bc"
+hash = "f9319670880b002c9c15ed603b957ae5ff39fae28d78a6d8c7d3fbf2d6b190e7"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/454E88165C7B2106.snbt"
-hash = "bf19d20e041b70ff76e1000febdd1e268e7219229fe94e7aa5decf4a8ddd939a"
+hash = "cc036c4b0521e2810f2c7ce3a818caf498610e2e5bb353f91628481729fb50cc"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/47FED5AC73CDB8BF.snbt"
-hash = "50fce89f0ff7b6df249d014710b0807a0069a56be38f767cc52b33a0b01097a7"
+hash = "282d2f08935ba98c4fe81827c3264cd4848f482a83a44110e9252c69094a6187"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/55C75A71A401F6F9.snbt"
-hash = "4beb51419e6e4a82fac65aaa5d487b6cce186924dbe603027f15bc9558f0676f"
+hash = "c8ccf4b84b2470f04afd2967350651146d7dae1048a46041dba50c868af36138"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/59C15B9D0F7ED5E1.snbt"
-hash = "da5cdecfb466844aec793b85b7163f8aeb3d6e00f800f35b935c83a1c83c6dab"
+hash = "0acaf58c49dd27da9460cb506a52f88c56207c8a326e5ecb40444f4b3b7de104"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/769C9AEC3DB2FA42.snbt"
-hash = "1cbbb2923bc4d4840ea243755640f9bc38fc1dc9087f73006c3f9a921d05b010"
+hash = "3863af64898f0ecfde3ef9fbb0dc9166364aaa4e9a5f8aec0767deedbc49d065"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/7D1F93D6860D4667.snbt"
-hash = "4363ee1a21f56c6121fceab3203a407a6f14501443754ec54c135caea4724287"
+hash = "b97aa94e310be52927ecea08f1a0b2b76b4fe05d6e0dca6b4728559d734cc2e1"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/common.snbt"
+hash = "deb8fc58c958eb565a5ac5fd045a4bc43bea310845b40313aebbdae9f3c49c0f"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/uncommon.snbt"
+hash = "eb8309c5dccc984dc097f1af55e9ec9ed481942daa9f7989687dd18897011d94"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -9129,12 +9445,460 @@ file = "kubejs/assets/ftbquests/ftb_quests_theme.txt"
 hash = "dfb3553edb4234952b08261d85095f3c0572d93a257df353f378cc3eeec5016a"
 
 [[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/apotheosis_gear.png"
+hash = "01dbbb996a64c887efb3967a6bc1ba9a2b785fd732635066c6025c777b6b0258"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/apothic_spawners.png"
+hash = "c434b06cb7927021ba0a7372e231e3b6a44e8b23f5184506eb8381f7dd276926"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/enchant_arcana.png"
+hash = "adb066afe6f396b77c1666a2af061c6fd8eb902df9ed7c39041b215ee54709cc"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/enchant_deep.png"
+hash = "e69076de0022538d1282072ba59e021dcbfd43d8b55df8edf0d990cdcdcd854b"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/enchant_deepshelf.png"
+hash = "1905a3086e9e3567462018c0454555d6061c06928534bfd6e7935a6389c5b789"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/enchant_end.png"
+hash = "b9d7c277bf400f7676d6677fde22cf0ddc493a1c608797f62cee6f402228014c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/enchant_endshelf.png"
+hash = "da13840bb82a7b20db98bc086c72d829b07335c9b57157cb21c49c5698f2d212"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/enchant_eterna.png"
+hash = "908a0d15dda0d242f42c68544c0d2a675969e8d135bb61e11a17c207929e1d7f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/enchant_hellshelf.png"
+hash = "c49834cd1e6b07431ea77fd4e902538ced092c5f18a5c16657b701ad130c78e0"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/enchant_infusions.png"
+hash = "641a19c84b97f411e62355c46415d8096483bda3d3cee3d59be43f4af4989066"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/enchant_max.png"
+hash = "268cc1fe279f2e26d4f74bfe076a8f0dc5a42bc00ec6066612fbe9e6274e8f50"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/enchant_nether.png"
+hash = "5333aec3a92fcaf08d57064ddeb8a195f3aa676b6c4379dbcd06a865687e8a5e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/enchant_ocean.png"
+hash = "9af293c0519db975445e5e7b70c010231031a8af037a0f2519336277ef8ad1f9"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/enchant_quanta.png"
+hash = "42b86da51a71cfcd84db0883dd34892dc907a75cefe136eef87b9bc89b4aba30"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/enchant_seashelf.png"
+hash = "47825d1445265f69df9277b96506c1d2e86310785ad7e509305b5d56b102179a"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/gear_augment.png"
+hash = "ba972eaba0f090efaabc18fb0e8ee16caa7b5da18b81b80660ab60458773d048"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/gear_gem.png"
+hash = "3a8ae8a6fa9ab755571a6abf80d4b6e567ce042d42068c28b6558b775cad302a"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/gear_reforge.png"
+hash = "a8ec5638b1bfaa7b2d8c642d4182cb093b325fc4c6ca339a43dd1470c68c6d11"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/gear_salvage.png"
+hash = "eeee8b1adc8a53d3f4527808907afc948b148728bbe624a540d3a2a337978420"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/gear_sigils.png"
+hash = "c00e0d8ed9fc49d5f20997eace63f4d92e3521e95aad665913a060a7652bed17"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/gear_simple.png"
+hash = "6747b6ab8683eb3c79283ad24f4765d7fe2181d69e77a206e7d890a15e5a2f2f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/gear_smith.png"
+hash = "23f109d976830d38b29b3435ce488426caf3804d0c0034c1b49ef80c1904e342"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/gear_tiers.png"
+hash = "27ccfbeb80394eb7739dc7d96d6fddb362bb9962b84b1c99199e25e2c8757e0f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/geode.png"
+hash = "d5dc1a58b60943de391edacbc964f0566d9020fa8b8e4dc16c458786578d8180"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/logo.png"
+hash = "7008d3d7fea0a719030e5d4946458b77654182b92ccb0aab31222f190f2c16d0"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/other_spawners.png"
+hash = "ab7ad818a21831f6eee9781b4104c78040b185f64cbffdf883c2e461a84f81ed"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/spawn_eggs.png"
+hash = "73f13a8e2673ba2c1fcc81003085722c80838ad6ac1ce6d0436abc9a2cd5aaba"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/apothic/spawners_title.png"
+hash = "38fbd18ba9e8508eaad4972bd255d93937c54676954d9214ba38c6f5d96b3159"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/artifacts/artifacts_belt.png"
+hash = "00c7b6096cac7ab035be604688723c012d00f0e920208a859e86975c79151c9a"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/artifacts/artifacts_cowboy.png"
+hash = "cf93b9ba8d408e87d30ff3f83ca74b4be07331717c12e79f9f0cae2910db7ac0"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/artifacts/artifacts_feet.png"
+hash = "f087639e9b6834d9a95aa44fea7ea5e4fdd620225c4c86aecc390933fedec640"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/artifacts/artifacts_flameon.png"
+hash = "9a650845871308779aa44f49e514bca8a7f17deeecf93aeb630b09c1d4825fcc"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/artifacts/artifacts_hands.png"
+hash = "977eac1bde0a92a1796a41680204ab760a1e6610eb216a711e2a46fee7e11d5b"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/artifacts/artifacts_head.png"
+hash = "0c518ecb0115a352fb57469b63590810999e9983e52b24fe667e0cb403de4532"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/artifacts/artifacts_hungry.png"
+hash = "d8771f2d4fda2e452c47785f32cb9c26442b3147f18387e44a63c88d629aeefb"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/artifacts/artifacts_lucky.png"
+hash = "018869a653149eaf60dade835dd164d3a4cf987c2aa8064763dd0f75b27ca3c5"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/artifacts/artifacts_necklace.png"
+hash = "a702d0cef584ee5971cf14b3189525aa25ee34324a2b2ab907962979b972e256"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/artifacts/artifacts_pool.png"
+hash = "db54968f4eafd67e274b9fe76da2ebc3d34b9b7ca2c0dc5e7e34e3add28103e9"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/artifacts/artifacts_title.png"
+hash = "d8933835db28fb6fbe32098cb49d8b9dfd61b699572c52b7f1974c68ec66d102"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/artifacts/feet_olyfans.png"
+hash = "f087639e9b6834d9a95aa44fea7ea5e4fdd620225c4c86aecc390933fedec640"
+
+[[files]]
 file = "kubejs/assets/ftbquests/textures/block/water_still_opaque.png"
 hash = "fbe572901b43f8d819b42f4a42c0fb07eac0924f01399a6a75c7e4febece712f"
 
 [[files]]
 file = "kubejs/assets/ftbquests/textures/block/water_still_opaque.png.mcmeta"
 hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building.png"
+hash = "8ec506043cc771c1681f4db3c7313fa5d6c3e7c39c6c63ef53ec09d59166ca4f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_ambi.png"
+hash = "90f0794718a286c4ed6a01523eed8b7a71694449baf991165fe08f174026ca5e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_bloke1.png"
+hash = "65feae45abd29aadf1dcfe30f2d387006c79ede4e98245a1903a3c75f6ee31aa"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_bloke2.png"
+hash = "1264e66734f2242ef9e7f9333e541df7cf60a5b6681323ec52c687d08b1d9082"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_branches.png"
+hash = "b24c4ad704271b4cf2e36a8f41953650681005b58e61477478fddcbf0a6a5d3c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_breadzaa1.png"
+hash = "1adeb3d786737d496824e3894b4e7f55911210ad440193254c0e230c4dcc5d83"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_building.png"
+hash = "8ec506043cc771c1681f4db3c7313fa5d6c3e7c39c6c63ef53ec09d59166ca4f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_chaosorder1.png"
+hash = "bbcaa677006d4f78b45221d15ec9e1fa880d52143d072e1c282a35d74f9972ed"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_chaosorder2.png"
+hash = "b1c401d4df98ad534f644ce3f006a885d970ad5b3fa357977e726e2bda6ed98c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_charas1.png"
+hash = "8e3ea977adb039149216fc1aae848d8dd376d49efe479e60b134831d5f5f3f4d"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_climowitz1.png"
+hash = "24bae1186f2fe02807f4db42f5c3d7b28fc68c19e49f235fd364ee1aa4cd06a8"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_climowitz2.png"
+hash = "986c554593c8b9b40430d87838d5353d629800d44355f40fa8420b38c7d8b6f6"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_clqies.png"
+hash = "9e17e5370cc17146b240af883eac27c2ca313638e02147e9c2b4dd56f047149f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_cthonaut.png"
+hash = "b2ac236758caac6cfbd0e235c98efda8e5b614450efd9c82be53e62607d8e838"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_frame.png"
+hash = "847d5d85bfdcf6408abc7773bcd0388aac566143402c7d849a525ae9ef05b950"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_frankster1.png"
+hash = "e75158cb004deab19d3f1e548e17adfd0a03eb3c5dd8b3b22817c0b64018754e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_frankster2.png"
+hash = "25ab92d170d072ebe76b19373b3343e65ae20e738ca067ca23550cd5e88ffb2e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_gordon1.png"
+hash = "58855b13ba8ef5e1327557af3559b31d0b3660eecaf8f863835e45bddb4202be"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_gordon2.png"
+hash = "afd20b529aaeb79de6f1d14554bc3f702bfc24e9f4e7334658b0ebf37517ab59"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_kupnu1.png"
+hash = "0ac39aea2801c491cacd9d951a0dafde067451098bb73086097e7560b16482ff"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_lonerstar1.png"
+hash = "4972e8f32bb08bb41377ea0d5ae8557dbee5ad1e2e698124b8a0e9ba19da9c4a"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_lootz.png"
+hash = "9981a9fe662afa2215df03f5a6ff83657df403f1ab5379722afe1e6c29bc3a8c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_mindful.png"
+hash = "c2c0dc550c16b2b2a7ff7d01b04c5087016849f378fa100310ecaff18ba49aed"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_peppe.png"
+hash = "a191ce939eeb79835e0e1126d4dc7b174a696f19942db93fc7e4e697939af04e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_porcocrazy.png"
+hash = "64d4984e88272c1cd20eb9b1f5b8906aa08db69ecda0affcdb5f842a1f0569f3"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_quantum1.png"
+hash = "a6a2a0c091512208c167a5a4be1e7244e5079313bbd38be76676f4669119c692"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_quantum2.png"
+hash = "e1a0f279618b7c99fffa41cf77b7257085478d30d452dbbabfbdb01c3cfbc737"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_slowmo1.png"
+hash = "5cbe22b144b2a278b2f20299ff4b2b990d7983a7448c8dae93a772a5be58fea5"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_slowmo2.png"
+hash = "59af09581843663abc800d434abf6991b71ce3ab23547d617292611a5f808bb6"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_spoiler.png"
+hash = "3865f4e4726e325c18954d3142bfbb10310e752d0e909409e11c0867622dffee"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_stecy1.png"
+hash = "354e05bf18bd53a7cf900fea620a54df0b112c3daf5c0db3e8c881007b5d9dc6"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_stecy2.png"
+hash = "20f34caced367f83ec12ef114412302fda13a030a3bc7d96394314ee663614b5"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_tips.png"
+hash = "cb77bf889ff5b4ff099dfb15a0f23dcfe5665806f6fd998f414c20c11fd78105"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_ambi.png"
+hash = "e9fd592c6f70101bd752bf026693542305b37bf0c8853e44de6d2bdda7888d03"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_beelumpi.png"
+hash = "fcab0096f2c2a83c43072ce77c6c67995cbccf38a1505d21b4a5ad1f37447667"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_bloke.png"
+hash = "5958165aa1d8187aab84fa0d3e08b012d811e2b7a1672cb450fd7d5fb7f57aae"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_branches.png"
+hash = "2bf147d90ea9cf1802a00d0ef64d612d6662c7d279c4c6dddddeec2c5d6b6564"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_breadzaa.png"
+hash = "885e69bc3177aa7c7551955fb33f8f1d50b977fd3e9cc261d7ee7b6963a31396"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_chaosorder.png"
+hash = "c52fc898b32a0373f0ba8859af8020fc9141f4870962b6fec56e9901ab463ead"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_charas.png"
+hash = "8b01edb9948499f39027b13c011547708aed20736f030bd233955a6509f9af39"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_climowitz.png"
+hash = "de4b1f47f83cc2077af6f1e0c5fadab60d4f03fd445c591352033cfb545cc4c2"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_clqies.png"
+hash = "3cae931fc066b66925004fc5a536dab1a9ed8059692197cd173715b537a18c7c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_cthonaut.png"
+hash = "dd14cdc1181ba7417e47dbe0f9217f70c4ad5f03e34eb79f26fcf4d8006d9227"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_frankster.png"
+hash = "0153937badef531925a17bbf21a42161b3d59a6d6217e0b6a5d953d04c5c0760"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_gordon.png"
+hash = "1adebed04e6068f3e9e969526a5a4366c9398b9c11af63476bd14ff225924c2e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_kupnu4.png"
+hash = "f5e2de8e2e423afa55f081cb0f8eb87476b2ac005649732c8a83a0eec854895f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_lonerstar.png"
+hash = "38f02c5971ad0870c24608d49249e75de5436e16b49056e47584357d4a93bb57"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_lootz.png"
+hash = "81a37fb566736179e7d3d2cfecf122009c084034de1dc14c67ac2a9fb5d839df"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_medusa.png"
+hash = "f838fcdb797d32e3ef44575cccbb0304dadcde28bbaf2e8625a0b50736a375fc"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_mindful.png"
+hash = "23a1b38531f0b6980ceb66fc7b25d333940ca78e71d337fdd53cb724bf01b278"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_peppe.png"
+hash = "113c41ed08f7b392c0b9f13b147a6da6ace576854c6d5884b6680220b41fef30"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_porco.png"
+hash = "999a9aa384f6c2e75f280b2b09e55bbacd3566d7e4c71471dc0ccf49027142c9"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_quantum.png"
+hash = "305a70e42a96770a0e338fdd6d720a772b9b626e55a26aabe7100186ec2154aa"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_slow.png"
+hash = "5279458c42a6a0bfd54d8e92338c7cccb0a8fe6be2035ae2110853e5f9ac5443"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_spoiler.png"
+hash = "42e412861c4290467140d25d922c3a8f800388185d9e3c24ac08f4d458415de2"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_stecy.png"
+hash = "26dc6dbbde91a98ab237e787baadd6a1174088f263da5143ca908664b9562e0e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_tracker.png"
+hash = "03fe93d6a293d2697d56eda2526cb11ee8d199aee57c6e5b8c925784ec10445d"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_unka.png"
+hash = "fc7da8ac870c4a828a1f8b0748c2e5b4c6132536c21b782366c8b90fd3addbe8"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_vivavii.png"
+hash = "e8872f817d0348decb1758e55c030719c27fc9f314a19fd82a37432b989bfa80"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_wuschelorca.png"
+hash = "5a712cc8968680ba88af9597940c8a5e6fff7fd4ec7dd0018f180eff580fed39"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_title_zahorizon.png"
+hash = "b8b6d56e40ff786b06cd431701eddc96aef650cc4c00095ef867749cb286b2ae"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_trackerkitsune.png"
+hash = "eec49ae9dc5557f10d01eb1d5131fa227a2822eb8873a4e4219afc28d5c748ce"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_trackerkitsune2.png"
+hash = "cccbeffb61804fbf3e1928388393bd23b310a00f05c9d2726b1eff8dc52e21fd"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_unka1.png"
+hash = "e065ca5bcec99bec19b1bbc08eebaa624e0e27c74c6f3dcfc8022867c5fad45d"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_unka2.png"
+hash = "0debf4a9edeec80f3d0548cb776ab9114c83a8f4cfac43877f0b02038969f3a6"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_vivavii1.png"
+hash = "679d23d128fc8e00062caaf8dcfe7d709748de8e58de9c98e1a773caf48f81b1"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_vivavii2.png"
+hash = "92dce1c3f2c0b929516f9f4f322a9783dbaaf0f4814e0ce53bbf9b9d578fde82"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_wuschelorca1.png"
+hash = "206c0f60f1b7b0506f9801bc6012269aa60d8866b5fcd94295de6ec80950354e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_wuschelorca2.png"
+hash = "26b9e2324c69b0f4cb96840de138e79f61e46f983423f5c3ae8479ed401422e8"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/building_zahorizon.png"
+hash = "868f253ad405b2292ff66e0a8dece469a7c9319fbed718df3365780842dd7d4f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/camol_example.png"
+hash = "81d959c08181d7c8400d45d086c2691685f103085d1b319e2be1dd7d1acbe82c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/building_tips/tips.png"
+hash = "cb77bf889ff5b4ff099dfb15a0f23dcfe5665806f6fd998f414c20c11fd78105"
 
 [[files]]
 file = "kubejs/assets/ftbquests/textures/gui/3d_lit.png"
@@ -9449,8 +10213,612 @@ file = "kubejs/assets/ftbquests/textures/gui/wooden_frame.png"
 hash = "66755cae381d6428613b09adeeaf8cb98cc6a0f2b2245bf713d2106e678f6ca3"
 
 [[files]]
+file = "kubejs/assets/ftbquests/textures/id_title.png"
+hash = "76b6a9854311bfb39600dbf220e2353b1e140cb46e39389b752e82ff303881db"
+
+[[files]]
 file = "kubejs/assets/ftbquests/textures/item/book.png"
 hash = "32c9cd35c65424909c57e3e708056e3d138d6d9a89dfed7ef0150545b7cd20d2"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/basic.png"
+hash = "dfc485e6fe7fb6caa457db9d6fc124fa63a435d4761f73332c98e3a32fec8fc0"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/id_energy.png"
+hash = "81f18c8c2accbe1b7663304988231364dfa714affdfef67e5b941dd353be4f98"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/id_fluid.png"
+hash = "815216e568cb42200a365343712633d2e7ac8d22c2fa93475c8c165391a49783"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/id_item.png"
+hash = "cf289e81edbb737583d5bc7d4a51a2365c3ff39d43f6723db1521f2c02100efc"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/integrated-.png"
+hash = "de0afab6eb5ebb740ad51fd3edd2adc3cc39ce471224f5abbd4c8eee82e4fc93"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/laserio.png"
+hash = "7762c07bdf39764af81e47dd3426e71128b82f444cb881001b0823f64e3962ba"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/logistics.png"
+hash = "f4a7040107c38c41580a29a2a1d9851f6b1b8e9c9011aaf847c988918d6a9a5e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/meka_cable.png"
+hash = "72358507f369c2bd62d3323e077f00760b6322c8ea4f150dbfde5f7ababb1e43"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/meka_conductor.png"
+hash = "3c877f4c80c32531a5739ac9bde6178a8f6f05369f84185493a39924b5b802c3"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/meka_pipe.png"
+hash = "d93e2582320cfff6e23beffa0003d6eebb2c7cf9c3ca2a5eff2b84124137f859"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/meka_transporter.png"
+hash = "5eda5e6e6c04fbe408dd96ece951c23722aacbd0d9f086d249bfcb0af0263ab4"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/meka_tube.png"
+hash = "5933dd1fb5b313908758568b684b42ce1e78829ccf6f89ddf3ac369b239ab71d"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/mekanism.png"
+hash = "6b0403da2a1adfcab9c848dca548fbd6c593db7922d8aec11f568bdb05194b69"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/pipez.png"
+hash = "6e1696376ac02bead072f423d0705cfd56c3495338c5a17f130abdc1367dbbb3"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/pipez_energy.png"
+hash = "3fda9722ceb703656773dcb3f5dab62a94b362a972e29d17a818c7079cd736a6"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/pipez_fluid.png"
+hash = "ead90f2e978b6d3589c314b28f411ef1472bef3d36991e6a0c61efaf8c5d0813"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/pipez_gas.png"
+hash = "380a70213176cb516e90e4ce04d0af7da1b4ffc1304daeb0719e13c38ea799f7"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/pipez_item.png"
+hash = "5969b1d99869748933f8eb5885996bc5b11a293ea2ae4c8e75d9f7d5a0e69f4e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/logistics/pipez_universal.png"
+hash = "afa76f562e8d8be2385cb45d620a516e42331c495547591a05b54b9cb0f434cb"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/basic_sps_shape.png"
+hash = "e4c4f801ed532af228dcd56bf62b7e63b6b469cddabfbc5a20e7e27e57ac4052"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/completed_fusion_reactor.png"
+hash = "2bfe41af4b9027775973df60e76f4945694e5b1e50bae051ffc0ee9f86433391"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/example_circuit.png"
+hash = "d91a421581ec5a365b98d7ef1f0ee172c05aff02d71cacbb092f1f8408f2aaab"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/fission_cutout.png"
+hash = "7e750ca30fdb1b886fc047247cb33e31ba694e36e2e82871903a30ebd08c6634"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/fusion_activated.png"
+hash = "d49297f65cf4244bc466487ab47452c760ab553801d94fdb0eaa0e3e1adc013f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/fusion_cutout.png"
+hash = "b9bafd69b97dd9a360c050499d5419fdf45b28b833b6ae879aeee747510eff9e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/fusion_fuelui1.png"
+hash = "4fab9b1c33251496bcc4ef75c20e871725afdd03e5f12e8c417ed9da619118f4"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/fusion_pattern.png"
+hash = "541db449676522c8dc6fa91c1b8ff09a6bc4a46dede49afdcf07272e36a1e64c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/induction_cutout.png"
+hash = "b29bb0ef0069af64763c1a4f19877dd9e1d6292ad31a0bcf89a02887762c9272"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/induction_inside.png"
+hash = "c0dcaeadce4b6affc4f28b3355d985b117ec624764bd6aa1466d00f92f7c4d66"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/induction_matrix.png"
+hash = "c2fdcbad784e92ce6f0090ae453ad15957375b20d4af4f766841605cdd594655"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/laser_example.png"
+hash = "ce92bf084bb588ab66918f5ce7408f744cd02d161cd1b3f66d2dd65a5709c6fd"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/laser_ui.png"
+hash = "b4b4d4e71b824760a23606ae005edcc92241aa8622578ead61544322821686aa"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/logic_adapter.png"
+hash = "1002487473357e1dcbb26ee93f66b81a08f615a5275b0b0bd3e787c268ddce71"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_boiler1.png"
+hash = "d0bce2280dffd646972614ec9f2b9413bfc8f10a8a2e32ed6178d85ffed8d775"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_boiler2.png"
+hash = "838aac0ac37f6f78ccbcdd98d7520b80f8c4170910c4d08e596e13d39d7ac4cb"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_boiler3.png"
+hash = "e416888d2c7acf45479f6d39faf128173d9b49b290f6e4f27e6e32809f56448c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_boiler4.png"
+hash = "3122c08f628493e9e1c41d7c0ab443f16d8867d138771eddebc52b38ce672ea0"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_box.png"
+hash = "c03867a1f40439703e2f3dd27ce970b50dc276360a69120f203c5d3df2482055"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_chemical.png"
+hash = "0b3c2f5104e543fec09a6caf21611ca8c411563d21c9a0e36f1ed9eb8bd03c86"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_dynamic1.png"
+hash = "9c0e9c984794aabbd000d9ff33895467bf836b8a59b20f8c0bbe5cd7ff36b2a0"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_dynamic2.png"
+hash = "bd2b21211672e50f6df62a3c1113703c7c2d5e0e58a7188025af9befc4a6d60b"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_dynamic3.png"
+hash = "488450dec1c94a49bb61781aa00e9c2ddcdcc27288b96345faffaf6c027ca119"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_enrich.png"
+hash = "b0063af4c458c72cc0dc6f956904096778f2d8a89ec36e663b26d776fc07279c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_fission1.png"
+hash = "581338fe978a495cb174564cb9260f80bfd37cf76f97256ca41c6ed1d0a3b3a3"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_fission2.png"
+hash = "6c0c8c6649636d8deace63ed85d664dc3abd9edd0b916d42d362ee17c86312da"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_fission3.png"
+hash = "1ec29cdebbb837ee05cf78bc69fc3fd38dda4966360d8837c5be7e5b2371ce42"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_fission4.png"
+hash = "f7eb493c601d0b288374d7d2bd20937a58690bbb33dcc0dc97ac8351f36bb25a"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_fluid.png"
+hash = "e05a56bdfbea3a6d02d88f58e52a5fc0b1e32daf48915508c3d2c11ec6cb4015"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_fusion1.png"
+hash = "af301ac02390d9a955e13008aec4aba6de31a25e39cde83a34df1f8c4ecaa4de"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_fusion2.png"
+hash = "d119a10ecdb13cf8b1e0a12c53fbcc424e75b4b21779a0a0518af81c111fadf3"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_fusion3.png"
+hash = "18e9dd3e8dbcdd122611bf4d9dedc8eb0435a3e15f6c63df0d088794e2e1d685"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_fusion4.png"
+hash = "6ac5f2b69d259aaa7919e8a1dd432e05d954a273db56c6af73fdefc5f6504f9e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_fusion5.png"
+hash = "dfaf6c2a2d208f6fcac7b32b8ae04d495482576f3d7e5e3a3d7f2b35711a6845"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_induction_matrix_small.png"
+hash = "b2b64b367c13d84a952e371474e1b28e7c400abc0ca006e21e2515403c20a1c5"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_matrix1.png"
+hash = "dec2239b5a27beba8afe3ca96a3831468b327ea81cf81627ed1f6014480a004b"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_matrix2.png"
+hash = "a562ecf1da5e30bf63b25112686418efa2ff6e66ce1c08543d3228322ebff6c4"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_matrix3.png"
+hash = "7b1631c73d96e2e2b19c2005e9d820aa911dc16245ac554e8c1a6e94836e33c1"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_matrix4.png"
+hash = "fac47118a15eb8f9fd048c55a4a97cfb73754086eae23e4c979ca8e9ac4c0b9f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_multi_runic1.png"
+hash = "1cf50673512a37a7efcd7026529bf11e74a82497c513a2d03bd6094ecdc398fd"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_multi_runic2.png"
+hash = "a9f624906a20d4420b9944c7bdf8d7cbbc8d57c7199474596b915dae5202f8e8"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_multi_runic3.png"
+hash = "ea1f1d34ba1b4e85e0c863ece0369060fc097992ddd2d2edbd59a33ab10080d8"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_multi_runic4.png"
+hash = "0f2bfd65cfcc3a037a74a219fde1a43d708d26bb25887895a1abdd955e93cccf"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_multi_runic5.png"
+hash = "8041c3901b3c80b062de9f0db80ceef35d10abf0c2688a09c767eea0b653c4b0"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_qio.png"
+hash = "3b3717cc7e77a3bf0d1ba4cb223d1a8c952aae80df43008f2eb79ef54371f9c9"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_solar.png"
+hash = "37129955aa5730b16188fffa45e4b27811b7c869c2131056ef77c1ba79b10440"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_sps1.png"
+hash = "18d2dc3cafa5f466556f9caebe7ca33d32a5ea7bfeea228162115f4ccb255908"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_sps2.png"
+hash = "ecb46a79400b5fca23e2e9ac473367f4b0f9fe9ad93bf961f62933e32dc36144"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_sps3.png"
+hash = "9d70769fa6b7c5a8163d530e7bc10cf460b235d1f8aa329f3e56bcda3f478554"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_sps4.png"
+hash = "5a9cf508ad23ef801b2a0e4c131c53506c7d404d4eeb896014b16ecfe5b6aa46"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_sps5.png"
+hash = "f1e85d65613ef080493b8da7eb3b3cce7f06a8c3a7ac93a711a9f08ea20f9d67"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_sps6.png"
+hash = "4264bae47545ca7a3749fa2fa8fff736075df4ffd09572c72e6d42e0c68d54cf"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_sps7.png"
+hash = "da4a7f1dc8ea3e88890c103fcf42016f1764d4bcb12ec5f86cf7f4bb90cdeaa5"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_thermal1.png"
+hash = "5b07e64d2306d02abb50347f70951a4641f3d4953161bc57d9c0778fc13e76be"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_thermal2.png"
+hash = "fa86f3810a06b86d63c18822bc114a21c661fb548ae118b7f202fc2f993162f5"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_thermal3.png"
+hash = "d3cc9a654284d5577b5d4eb59719f8cd2c16cb68c9197c7fda3440cdf19e8259"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_thermal4.png"
+hash = "732664eaf7e5842c521bb078b4cc64b99e28c4c0877625133e5783f55da19751"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_tier1_1.png"
+hash = "3ec77a251c83e1bde00c45c3b2145eea51faaf38941ef1f6e4074f8a71f10942"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_tier2_1.png"
+hash = "ce122c74acee1c282ca8b3180ded6a49c8d532956e81f0662077f69115d277ab"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_tier2_2.png"
+hash = "15c587e5c379929e7e5b439ddf1da1be16f5b32aeedae99b246c639feeef2089"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_tier3_1.png"
+hash = "2c50e8c6969970fb4d1eece604658a1955d4e937a3abc55fba4c2bb30ff28fda"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_tier3_2.png"
+hash = "4aea0bf6ac620dc88a9fb9a95da6028f9a5c3794e0257e35e7d7a61276e6599e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_tier3_3.png"
+hash = "1e85ea854b0ce2345e2a0c383d228b04362f6372344e38244a6b772276b21078"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_tier4_1.png"
+hash = "f6de7cd66702391bc5a0b1e2ef3c1b32fdcb974b4f2cc31bd65b8d553d112b31"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_tier4_2.png"
+hash = "89bfd728774f93d8048ba666ffde8eeef3433c6c181b7b1d7911f8211e210310"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_tier4_3.png"
+hash = "9af666d05c86e1e6cc993a4fb36168c165c5059175f05865579718420f1864c9"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_tier4_4.png"
+hash = "1e85ea854b0ce2345e2a0c383d228b04362f6372344e38244a6b772276b21078"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title.png"
+hash = "58e2ab61be4494a56888749a30c7847f928fbfc8b11e0fd83b4cc7b982f34794"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_1.png"
+hash = "5cb22b0e8a157de87bb3a49c57b05dd12520aa8cda4f88b3058e5f77355ec6c9"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_2.png"
+hash = "087a72a830c2f3329edf1d5289e7beffe1e1e3e6f44cfb49052ed1a83d5fbbfa"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_3.png"
+hash = "97fcaeb57cbb691536186c4c639ef3f227f87fd782c3ff032d47b730d8402093"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_4.png"
+hash = "f1c9af9cf7a10fff03bf85965dda7c8034817127f993c2fac92642f132661fa2"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_advanced.png"
+hash = "36bcf0b8a5e4a4b9adfe798d7e5b9b4010b4990371ecdede85267919a42e2f50"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_antimatter.png"
+hash = "b21ea7326ccd1adff46841fd607cb7a4303b5f583a773017e9839007d820eee1"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_basic.png"
+hash = "548c30e79c790f61eb2ba721dea26676b72d4ffa187b1f30d808d5fba7b26656"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_boiler.png"
+hash = "c6f27efad3cba6f3ad1b158793de58383d2d5a2b7dc4638b6c3992018fde1484"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_elite.png"
+hash = "2b6949fed979a5bdbe53269a5f8c1952ff6bdf3744c0d2a7921054aa19f30caf"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_energy.png"
+hash = "3c0a3e28680f2fca2cdb8c30cc7af5f73ff7dbb7ea2a02a34d3f9b4c48913dbe"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_fission.png"
+hash = "66edf910302d1213cfe1166d528046f379bd2623ddd722af2f6824961117d399"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_fusion.png"
+hash = "f6f83cff4027a562261e788e10b7fd79211abc5b34947ba2f997fe6f70410fde"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_logistics.png"
+hash = "bf65853f6e2d9c409d612fe821c517275917f767632220013dda17fab9957554"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_machines.png"
+hash = "c3766b015fa4b54af5a41f5e87bab39b6ebc65986e55fc461fe36154807430ef"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_matrix.png"
+hash = "604506acf9f69cef6358ac3811a034c069290c669ed826399150ea54d2f308d4"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_mo.png"
+hash = "b7d54af8849065d6230f3c1dd60c05ca074644863f835b8653f2ff20d92f779c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_module.png"
+hash = "eefab639d545eee191e3ddfdd235a6cf51797e51c1838b46b2e6357173000311"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_multi.png"
+hash = "a14855d973514ee3f7d1f8441795eb38cf1d6bd566a60b79a7fd76dd7819a570"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_qio.png"
+hash = "be4ea8ad6d40f695f19661d0528a5e1cee486a5582c508f776ccb28b34d40cfb"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_reactor.png"
+hash = "160c8641aaf942cf98a500b92dc99f865d8f576d204a6ce216ad1b1bf4075afe"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_sps.png"
+hash = "ae57d02310a81e35257683c0f80a802f79625030dae04b6f3ff8e6a92a6bde8d"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_suit.png"
+hash = "74fc67ee940de976575b9c1dab2c1fd70b6cfeff4fea024332aa297202279504"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_tools.png"
+hash = "c086cd86eb34b2598b57e0fd1ecd56f31029708d62e08df7a00e8d8538d3e38f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_turbine.png"
+hash = "9fd306fd6d45a8bac7a850cbcc10a1b588e33748227a157c96cc1fceaf52a49c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_ultimate.png"
+hash = "0c7d79eca2a6cdfaacb0eb461975a9f6945b083ec01606357084be6c5eabc29e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_title_upgrades.png"
+hash = "4fe3c656894c7cda8bdcfd85bb582ed4f07ced7b1c7d928d98202c6f68fcb6e5"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_turbine1.png"
+hash = "e805575b8ba462e8c5cd709a8b97f48bc0cace91db633574ee3be28d75041423"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_turbine2.png"
+hash = "bf8f4352e6b2633446c58b289097e8a0e0b763d92ffaa06ac62e72dae4fd74f7"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_turbine3.png"
+hash = "535004a7285e67ab9227069e265bb4cbc275e97c918d79a01f2c0b3a7c96941b"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_turbine4.png"
+hash = "457c3f0f89b59755394ab476b02136ea9d4ab3d9dcdeccb1713b9b7dbc25904c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_turbine5.png"
+hash = "7b4a2db1a8d173deb39cb1b83a4e3da852ee3de180112f5a282486a2fb87c33d"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_turbine6.png"
+hash = "586ba8c9f384deafb4ff743c621f776895317c4347fb3fe073a2d27bd679eb90"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_turbine7.png"
+hash = "1930df5b07a87ac9770a639fd9add5a9531a1b17864cbf9189c757c349b66510"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mek_wind.png"
+hash = "4ba7e96c7268a933f768d2b50ca1c550b3e3210b7caa360db050ecc04c4ca14e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/meka_portal1.png"
+hash = "c14408e71563077b5841f019622fd512ebe95ceb4d4a62c4cce6b9a248a0a59b"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/meka_portal2.png"
+hash = "a86641513d4e7601c1540be1cf0e66c40c0122b163ccb3251e9bff3e77e07c31"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/meka_portal3.png"
+hash = "1f984dcd482cc60f39079c526fdfb9b30024b4d622e880ca37b2bcb935c44608"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/meka_portal4.png"
+hash = "75869c9d7f36b708522ed0517c932bfecb7c375d2d1280df70b4568ec46ae6bf"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/meka_portal5.png"
+hash = "7453a8e84981a0ee386758a9837621f3e276ff470d4e37f52a4a776485ac8e19"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mekanism_flowchart.png"
+hash = "5e299dd519617f67e26b0a311ca2421e5da7e9bb239e7a7613ebfe778263af4e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/mekanism_logo.png"
+hash = "edd78e55c1c5bc51edc4539c6d6ad1f448cc864d488f028aa1a4148546e6f01b"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/port_example.png"
+hash = "d81be742332b826f55d30a0053d1a65d2ba18262d2f097b7e77f0c0cc4a09639"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/reactor_interface_1.png"
+hash = "dc8e37f1adb2af1cc2a6fe2bade827134fde5fd4324eb4fe8e44a84c5953ad23"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/reactor_interface_2.png"
+hash = "d3e3548ae72856915407f76c97b8bf3c0360a0b8baa26c7c345aebd3af63c455"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/rod_example.png"
+hash = "4766a6c9d0d2c36d39d92549e7609d6c65d698cbc46e04fa28e457b27230530f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/sps_coils.png"
+hash = "e02176ec10b528a09020a473d664c64fb88a76a29d0730ffb047fee428e6e1e9"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/sps_complete.png"
+hash = "7395f61ef55cbec78bbac25b31059141dc941df3d70c37b9db5edfed782613cb"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/sps_cutout.png"
+hash = "c886215e3e6770b24dfea83916c58a166945722cd7ecbe7ad3eabd706e2c40ff"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/thermalplant.png"
+hash = "9cde9b5b43a6d91ddc2c10e9b20c60896dc1090100ef58b5059f8386dc54df97"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/turbine_completed.png"
+hash = "e4d61a8dd9234e069ab33be614e3e84390fc9862bb7609cb8e5d4fc3cbf93911"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/mek/turbine_cutout.png"
+hash = "b14bf52007f95d055c6e3cb825f37c59ff9e1937651ffd62ae7d19e4601cca97"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/relics/relics_chest_bastion.png"
+hash = "bd9b6417d3e290f3269277291f20f039c580e3cca0ebc59cacc3f79d032c1592"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/relics/relics_chest_endcity.png"
+hash = "e7b71c13e065cdcb0d16725cd2d869c8ceb26d7875298ee246cebc2b7fa49cee"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/relics/relics_chest_endship.png"
+hash = "bff7ac9be960617fe6d06e4ed1af91981026db0594f7b5c3046a9b3ac309baef"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/relics/relics_chest_fortress.png"
+hash = "d96daf6afdcd3483403e5fc7e5f47c6eba907ec419a1accb82fe6fa5c798385f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/relics/relics_chest_mine.png"
+hash = "22643a05b3aeb4ee22521d2ea9e55f225c85cc6dfdcea38f4f28dc9df9ebfbf4"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/relics/relics_chest_portal.png"
+hash = "22f73cf62789c4e35d71d6b4791a6ffb4499b8cfd9f58b1a82a8d172a36d72ff"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/relics/relics_chest_pyramid.png"
+hash = "c6fec7262ea01e4273d05ea0fa00d67d828a390a5bb9ec8dedd9a3e9e52deaff"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/relics/relics_chest_ruins.png"
+hash = "ad6851915dc20fa24bf315b74f6afa8f2c86a7df3768d47dcf7405806b890be3"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/relics/relics_chest_shipwreck.png"
+hash = "786569f4855da463fd801986c9e4a4a3e43a7346d33743ca63e5fc812bd4d943"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/relics/relics_chest_stronghold.png"
+hash = "ffe95458fa469d5a2edd913a07936bb1a7e3de2721ab0c0defffaacad5fb70f4"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/relics/relics_chest_village.png"
+hash = "978296a4e46db5c7a546471413d31369e0bf6357ce425fc2e37269fd5dca7a71"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/relics/relics_title.png"
+hash = "76cfcaaaa74ed3951ac3e45131149bc9fbfc1628132422c5b7ad0bbcb33e9406"
 
 [[files]]
 file = "kubejs/assets/industrialforegoing/guideme_guides/industrial_foregoing.json"
@@ -19350,6 +20718,11 @@ hash = "f15037bbd326999cb63b1267628f64c29ca3df1650c2276e492cb5ff88fbed7e"
 metafile = true
 
 [[files]]
+file = "mods/applied-schematics.pw.toml"
+hash = "de54b58aae3f79790e014f11d9cb89df3c796c429a63fea4af4139808d751544"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "fbbea448bb6a8bdab5d9f10fb5d27d177a0e7998fb4d797287f0a83b6f89e6d2"
 metafile = true
@@ -19605,6 +20978,11 @@ hash = "53585ee2041174626662b53c08795a14d038874359079add62df022b64e6b9bd"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
+metafile = true
+
+[[files]]
 file = "mods/clean-swing-through-grass.pw.toml"
 hash = "69968d3337983555531273604549745ad124bc95e19363f69cb4d1e41f47a980"
 metafile = true
@@ -19837,6 +21215,11 @@ metafile = true
 [[files]]
 file = "mods/display-delight.pw.toml"
 hash = "d8cbdd5c836d02ba7e1949e660e14c904bf7b9157fc6f062ce33902adc650a2f"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "1bbe182b3a43c998b702e565e7f061125a491c5ee385fd9b050de0faaf28647f"
 metafile = true
 
 [[files]]
@@ -21900,4 +23283,4 @@ metafile = true
 
 [[files]]
 file = "version_info.json"
-hash = "c210b7dc71933f832ac974c4f76b61241b05ec95fc598eb43821f2958e8c4695"
+hash = "2ab1b6472e348c05f4341b3664d862ce214b69aa54c558c63770f2c36265a7ee"
