@@ -1,3 +1,9 @@
+# Forktoria | v1.0.0-beta.4
+
+_Neoforge_ 21.1.230 | _[Mod Updates](https://github.com/Legrems/forktoria/blob/main/changelogs/changelog_mods_1.0.0-beta.4.md)_ | _[Modlist](https://github.com/Legrems/forktoria/blob/main/changelogs/modlist_1.0.0-beta.4.md)_
+
+* Nothing changed
+---
 # Forktoria | v1.0.0b3
 
 _Neoforge_ 21.1.230 | _[Mod Updates](https://github.com/Legrems/forktoria/blob/main/changelogs/changelog_mods_1.0.0b3.md)_ | _[Modlist](https://github.com/Legrems/forktoria/blob/main/changelogs/modlist_1.0.0b3.md)_

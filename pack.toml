@@ -1,12 +1,12 @@
 name = "Forktoria"
 author = "TeamAOE"
-version = "1.0.0b3"
+version = "1.0.0-beta.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e9f324f15b8658f0d5a92ab0d2003c9aa4cf00c74ce49be32e7a2ed12d03950a"
+hash = "3bd3622c3857fc6bdc6dc90d8a75cdda34cc39425b8640e7cd71e5bb92c94fe7"
 
 [versions]
 minecraft = "1.21.1"

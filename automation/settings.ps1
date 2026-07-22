@@ -26,11 +26,11 @@ $MODPACK_NAME = "Forktoria"
 $CLIENT_NAME = "Forktoria"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "1.0.0b3"
+$MODPACK_VERSION = "1.0.0-beta.4"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "1.0.0b2"
+$LAST_MODPACK_VERSION = "1.0.0b3"
 
 # Which modloader the modpack uses
 # Use proper capitalization for display (e.g., "NeoForge", "Fabric", "Forge")
