@@ -53,7 +53,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "[![](https://i.imgur.com/Wkjf3LR.png)](https://github.com/TeamAOF/Craftoria/blob/main/changelogs/CHANGELOG.md)"
+$CLIENT_CHANGELOG = "[![](https://i.imgur.com/Wkjf3LR.png)](https://github.com/Legrems/forktoria/blob/main/changelogs/CHANGELOG.md)"
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS
@@ -178,7 +178,7 @@ $CLIENT_ZIP_NAME = "$CLIENT_NAME-$MODPACK_VERSION"
 $LAST_MODPACK_ZIP_NAME = "$CLIENT_NAME-$LAST_MODPACK_VERSION"
 
 # Default: "$CLIENT_NAME $MODPACK_VERSION"
-$CLIENT_FILE_DISPLAY_NAME = "Craftoria - $MODPACK_VERSION"
+$CLIENT_FILE_DISPLAY_NAME = "Forktoria - $MODPACK_VERSION"
 
 # Can be "markdown", "text" or "html"
 # Default: $CLIENT_CHANGELOG_TYPE
@@ -196,7 +196,7 @@ $SERVER_RELEASE_TYPE = $CLIENT_RELEASE_TYPE
 $SERVER_ZIP_NAME = "$CLIENT_NAME`-Server-$MODPACK_VERSION"
 
 # Default: $SERVER_FILENAME
-$SERVER_FILE_DISPLAY_NAME = "Craftoria Server - $MODPACK_VERSION"
+$SERVER_FILE_DISPLAY_NAME = "Forktoria Server - $MODPACK_VERSION"
 
 # Path to the ModListCreators output file
 $MODLIST_PATH = "$INSTANCE_ROOT/changelogs/modlist_$MODPACK_VERSION.md"

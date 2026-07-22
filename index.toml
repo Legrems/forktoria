@@ -3706,7 +3706,7 @@ hash = "273aa1c70694dbd1b9c6f03b2644ffdda8ceba5afe2b4125e35a3294abeaeb41"
 
 [[files]]
 file = "config/fancymenu/customization/craftoria.txt"
-hash = "a07c808453121fd9b7750feef5f6939a522dc7c113cdf4ed5e361d8e758b2079"
+hash = "ea1f77a5daa6826683eed6d0a4c1fa508f67fc9a9364f1c6eb0dc573077cff9b"
 
 [[files]]
 file = "config/fancymenu/customization/create_world_screen_layout.txt"
